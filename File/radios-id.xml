@@ -1,0 +1,4671 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <name>#60 | Sixty Radio</name>
+    <uri>http://45.64.97.82:8014/sixty</uri>
+  </Station>
+  <Station>
+    <name>101 Jakfm</name>
+    <uri>http://sportku.com:8000/jak</uri>
+  </Station>
+  <Station>
+    <name>102.7 MQFM / Bandung</name>
+    <uri>http://125.160.17.21:8200/</uri>
+  </Station>
+  <Station>
+    <name>102.7 MQFM / Indonesia</name>
+    <uri>http://radio.useetv.com:80/mqfm-aac</uri>
+  </Station>
+  <Station>
+    <name>103.7 REKS FM</name>
+    <uri>http://stream.radbdg.net:8000/reks1037fm.mp3</uri>
+  </Station>
+  <Station>
+    <name>105.8 Lite FM</name>
+    <uri>http://streaming2.sportku.com:8000/most</uri>
+  </Station>
+  <Station>
+    <name>105.9 FM Ardan Radio</name>
+    <uri>http://listento.ardanradio.com:1059/;</uri>
+  </Station>
+  <Station>
+    <name>107.7 REM FM UNNES</name>
+    <uri>http://remfm.onlivestreaming.net:10770/stream</uri>
+  </Station>
+  <Station>
+    <name>88.6 Rhema FM</name>
+    <uri>http://streaming.rhemaradio.com:5757</uri>
+  </Station>
+  <Station>
+    <name>8bit.fm</name>
+    <uri>http://8bit.fm:8000/main</uri>
+  </Station>
+  <Station>
+    <name>8EH Radio ITB</name>
+    <uri>http://8eh.itb.ac.id:8000/streaming.live</uri>
+  </Station>
+  <Station>
+    <name>90.7 UTY FM Medari</name>
+    <uri>http://utyfmedari.us.myradio.web.id:8000/utyfmedari</uri>
+  </Station>
+  <Station>
+    <name>95.1 Purnama Fm Blitar</name>
+    <uri>http://103.28.148.18:8796/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>95.5 RAS FM Jakarta</name>
+    <uri>http://103.28.148.18:9006</uri>
+  </Station>
+  <Station>
+    <name>96.4 Bahtera Yudha FM</name>
+    <uri>http://streaming.bahterayudhafm.com:8050/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>98 MAYA FM</name>
+    <uri>http://180.250.18.115:8000/bandung_mayafm_mono</uri>
+  </Station>
+  <Station>
+    <name>98</name>
+    <uri>http://ina.vinhostmedia.com:8000/favoritradio?1539613438384</uri>
+  </Station>
+  <Station>
+    <name>99.1 Most fm medan</name>
+    <uri>http://u.klikhost.net:7106</uri>
+  </Station>
+  <Station>
+    <name>99.9 FM GKL</name>
+    <uri>http://jkt.jogjastreamers.com:8000/handayani</uri>
+  </Station>
+  <Station>
+    <name>99ers 99.9 FM Jakarta</name>
+    <uri>http://playerservices.streamtheworld.com/api/livestream-redirect/VIRGINRAD.mp3</uri>
+  </Station>
+  <Station>
+    <name>99ers Radio</name>
+    <uri>http://ninetyninersbdg.sg.myradio.web.id:8888/ninetyninersbdg</uri>
+  </Station>
+  <Station>
+    <name>99ERS Radio 100 FM Bandung</name>
+    <uri>http://ninetyninersbdg.sg.myradio.web.id:8888/ninetyninersbdg?type=.mp3</uri>
+  </Station>
+  <Station>
+    <name>A Radio 96.1 FM</name>
+    <uri>http://175.103.58.73:8000/</uri>
+  </Station>
+  <Station>
+    <name>Adh dhiya FM cirebon</name>
+    <uri>http://103.28.148.18:8098</uri>
+  </Station>
+  <Station>
+    <name>Aditya 87.6 fm</name>
+    <uri>http://live2.indostreamserver.com:8130/;2494523251950136stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Aditya FM Pekanbaru</name>
+    <uri>http://103.28.148.18:8302/;</uri>
+  </Station>
+  <Station>
+    <name>Aditya Pekanbaru</name>
+    <uri>http://i.klikhost.com:8302/;</uri>
+  </Station>
+  <Station>
+    <name>Adityafm Subang</name>
+    <uri>http://s3.vinhostmedia.com:9150/</uri>
+  </Station>
+  <Station>
+    <name>ADS Radio</name>
+    <uri>http://175.103.56.9:8009</uri>
+  </Station>
+  <Station>
+    <name>Ahlussunnah</name>
+    <uri>http://103.28.148.18:9006/</uri>
+  </Station>
+  <Station>
+    <name>Aje Radio Jakarta</name>
+    <uri>http://u.klikhost.com:7854/</uri>
+  </Station>
+  <Station>
+    <name>Al/Ghifari</name>
+    <uri>http://i.klikhost.net:8058</uri>
+  </Station>
+  <Station>
+    <name>Alfatah</name>
+    <uri>http://103.28.148.18:8228/</uri>
+  </Station>
+  <Station>
+    <name>Alhidayah</name>
+    <uri>http://audio.aswajacenter.com:1076</uri>
+  </Station>
+  <Station>
+    <name>AlHidayah FM</name>
+    <uri>http://radio.alhidayah.info:1076/</uri>
+  </Station>
+  <Station>
+    <name>Alhikam/Mlg</name>
+    <uri>http://183.91.83.45:8000</uri>
+  </Station>
+  <Station>
+    <name>Amandit Fm</name>
+    <uri>http://live.amanditfm.com:8610/</uri>
+  </Station>
+  <Station>
+    <name>Ambassador FM</name>
+    <uri>http://u.klikhost.com/singleplaylist.php?ip=199.167.134.163&amp;port=8000&amp;mount=ambassador_fm&amp;format=PLS</uri>
+  </Station>
+  <Station>
+    <name>Amirah FM</name>
+    <uri>http://103.16.199.177:8500</uri>
+  </Station>
+  <Station>
+    <name>Andalas Radio</name>
+    <uri>http://i.klikhost.net:8902</uri>
+  </Station>
+  <Station>
+    <name>Andika</name>
+    <uri>http://198.24.155.194:1057/stream/1/</uri>
+  </Station>
+  <Station>
+    <name>Andika Radio</name>
+    <uri>https://stream2.andikafm.com:1057/andikafm;</uri>
+  </Station>
+  <Station>
+    <name>Angling Darma FM</name>
+    <uri>http://s4.vinhostmedia.com:8000/adfm</uri>
+  </Station>
+  <Station>
+    <name>Anita FM Tegal</name>
+    <uri>http://180.246.52.243:8000</uri>
+  </Station>
+  <Station>
+    <name>Annash Radio Jakarta</name>
+    <uri>http://208.84.135.164:80/</uri>
+  </Station>
+  <Station>
+    <name>Antares FM</name>
+    <uri>http://www.zamrudtechnology.com:8000/polaris_mono</uri>
+  </Station>
+  <Station>
+    <name>Arbes FM</name>
+    <uri>http://arbesfm.onlivestreaming.net:10100/</uri>
+  </Station>
+  <Station>
+    <name>Ardan FM</name>
+    <uri>http://listento.ardanradio.com:1059/</uri>
+  </Station>
+  <Station>
+    <name>Ardan Radio</name>
+    <uri>http://listento.ardanradio.com:1059/radio.mp3</uri>
+  </Station>
+  <Station>
+    <name>ArekBonek</name>
+    <uri>http://server.jatimstreamers.net:1927/</uri>
+  </Station>
+  <Station>
+    <name>Argososro 93</name>
+    <uri>http://usa.jogjastreamers.com:8000/sasstereo?s=28373</uri>
+  </Station>
+  <Station>
+    <name>Armi fm</name>
+    <uri>http://103.28.148.18:8140</uri>
+  </Station>
+  <Station>
+    <name>Artha 103.7 Bengkulu</name>
+    <uri>http://s3.vinhostmedia.com:9654/</uri>
+  </Station>
+  <Station>
+    <name>Ash/Shidiq FM / Purwakarta</name>
+    <uri>http://radio.mtafm.com:8980/</uri>
+  </Station>
+  <Station>
+    <name>Asu</name>
+    <uri>http://78.129.224.19:30953</uri>
+  </Station>
+  <Station>
+    <name>Atera FM</name>
+    <uri>http://69.73.163.217:8557</uri>
+  </Station>
+  <Station>
+    <name>Attaqwa FM</name>
+    <uri>http://103.28.148.18:8840</uri>
+  </Station>
+  <Station>
+    <name>AURA 98 FM</name>
+    <uri>http://98aurafm.us.myradio.web.id:8000/98aurafm</uri>
+  </Station>
+  <Station>
+    <name>Autoradio 88</name>
+    <uri>http://103.28.148.18:8870/;</uri>
+  </Station>
+  <Station>
+    <name>Bagelen24 Radio</name>
+    <uri>http://bagelen.myradio.web.id:8000/bagelen</uri>
+  </Station>
+  <Station>
+    <name>Bahana FM</name>
+    <uri>http://mediasobiz.net:8000/bahana</uri>
+  </Station>
+  <Station>
+    <name>Bahana FM 101.8</name>
+    <uri>http://live.bahanafm.co.id:8100/</uri>
+  </Station>
+  <Station>
+    <name>Bahana FM Ngawi</name>
+    <uri>http://bahanafm.onlivestreaming.net:10450/live</uri>
+  </Station>
+  <Station>
+    <name>Bahana fm padang panjang 100.2</name>
+    <uri>http://ns3.indonesiastreaming.com:8000/bahanafm</uri>
+  </Station>
+  <Station>
+    <name>Bali Niko Pratama</name>
+    <uri>http://50.22.219.37:38670/</uri>
+  </Station>
+  <Station>
+    <name>Bandung Radio</name>
+    <uri>http://69.172.211.121:9520/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Bandungradio.com</name>
+    <uri>http://radio8.klikstream.net:9520</uri>
+  </Station>
+  <Station>
+    <name>Bantul Radio</name>
+    <uri>http://103.28.148.18:8234</uri>
+  </Station>
+  <Station>
+    <name>Bass FM</name>
+    <uri>http://live.bassfm.id/</uri>
+  </Station>
+  <Station>
+    <name>Bass FM 932</name>
+    <uri>http://live.bassfm.id:80/</uri>
+  </Station>
+  <Station>
+    <name>Batam FM 100.7</name>
+    <uri>http://live.indostreamserver.com:9070/batamfm</uri>
+  </Station>
+  <Station>
+    <name>Batara FM</name>
+    <uri>http://nusaradio.com/indonesia/batara-fm-95-5-fm-madiun/</uri>
+  </Station>
+  <Station>
+    <name>Baturaja Radio</name>
+    <uri>http://baturaja.onlivestreaming.net:10310/live</uri>
+  </Station>
+  <Station>
+    <name>BAZZ AM 954</name>
+    <uri>http://onair.bazzradio.com:8750/hikmah</uri>
+  </Station>
+  <Station>
+    <name>BBM FM community radio</name>
+    <uri>https://listen.openstream.co/3614.m3u</uri>
+  </Station>
+  <Station>
+    <name>bbmfm</name>
+    <uri>http://stream.zenolive.com/2fsyhav1tfeuv</uri>
+  </Station>
+  <Station>
+    <name>BE 107 FM</name>
+    <uri>http://befm.onlivestreaming.net:10700/stream</uri>
+  </Station>
+  <Station>
+    <name>Be Radio 102.8 FM</name>
+    <uri>http://live.indostreamserver.com:8042/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>Be107FM 107.0</name>
+    <uri>http://45.32.140.234:10700/stream</uri>
+  </Station>
+  <Station>
+    <name>Bens Radio</name>
+    <uri>http://175.103.58.72:8000</uri>
+  </Station>
+  <Station>
+    <name>Bensradio 106.2</name>
+    <uri>http://175.103.58.72:8000/</uri>
+  </Station>
+  <Station>
+    <name>Beoli FM</name>
+    <uri>http://103.28.148.18:8606/</uri>
+  </Station>
+  <Station>
+    <name>Berisik Radio</name>
+    <uri>http://play.berisikradio.com:8282/aac</uri>
+  </Station>
+  <Station>
+    <name>Berkah fm</name>
+    <uri>https://berkahfm.wordpress.com/</uri>
+  </Station>
+  <Station>
+    <name>Best FM Garut</name>
+    <uri>http://stream.suararadio.com:8000/bestfm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Betex</name>
+    <uri>http://philae.shoutca.st:8509/stream</uri>
+  </Station>
+  <Station>
+    <name>BFC FM CIMAHI</name>
+    <uri>http://streaming.radionomy.com/RadionoMix</uri>
+  </Station>
+  <Station>
+    <name>BFC/Radio</name>
+    <uri>http://streaming212.radionomy.com:80/BFC-Radio</uri>
+  </Station>
+  <Station>
+    <name>BFM Belitung 104.6</name>
+    <uri>http://live.indostreamserver.com:8132/stream</uri>
+  </Station>
+  <Station>
+    <name>Bharabas 97.5 FM Pekanbaru</name>
+    <uri>http://i.klikhost.net:8826</uri>
+  </Station>
+  <Station>
+    <name>Bharata 95.2 FM Makassar</name>
+    <uri>http://stream.suararadio.com:8000/bharata_mono</uri>
+  </Station>
+  <Station>
+    <name>Bhima Suara</name>
+    <uri>http://stream.suararadio.com:8000/Semarang_GoodNewsFM_MP3</uri>
+  </Station>
+  <Station>
+    <name>Bhinaya</name>
+    <uri>http://45.76.158.201:8888/bhinaya</uri>
+  </Station>
+  <Station>
+    <name>Bhineka Online Station</name>
+    <uri>http://streaming.radionomy.com/BhinekaOnlineStation</uri>
+  </Station>
+  <Station>
+    <name>Bintang tenggara</name>
+    <uri>http://live.radiobintangtenggara.com:8000</uri>
+  </Station>
+  <Station>
+    <name>Bintangtenggara</name>
+    <uri>http://live.us.warningfm.net:8000/;?_=0.5077013375154275</uri>
+  </Station>
+  <Station>
+    <name>Blissfullove2013 Radio</name>
+    <uri>http://streaming.radionomy.com/JamendoLounge</uri>
+  </Station>
+  <Station>
+    <name>Bobotoh FM</name>
+    <uri>http://74.208.111.60:8000/</uri>
+  </Station>
+  <Station>
+    <name>Bom fm</name>
+    <uri>http://103.28.148.18:8168/;</uri>
+  </Station>
+  <Station>
+    <name>Bonansa RADIO 100.9 FM</name>
+    <uri>http://103.28.148.18:9136/</uri>
+  </Station>
+  <Station>
+    <name>Bonapasogit</name>
+    <uri>http://199.167.134.163:7302</uri>
+  </Station>
+  <Station>
+    <name>BOOS 104.2</name>
+    <uri>http://live.boosfm.com:8154/</uri>
+  </Station>
+  <Station>
+    <name>BOSS 102.8 FM</name>
+    <uri>http://stream.suararadio.com:8000/pematangsiantar_bossfm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Bpost Radio</name>
+    <uri>http://stream.suararadio.com:8000/bpostradio_banjarmasin_mp3</uri>
+  </Station>
+  <Station>
+    <name>Bragi FM</name>
+    <uri>http://s2.vinhostmedia.com:2020</uri>
+  </Station>
+  <Station>
+    <name>Brava Radio</name>
+    <uri>http://mra.rastream.com/mra_brava</uri>
+  </Station>
+  <Station>
+    <name>Brava Radio 103.8</name>
+    <uri>http://cloudstreaming.mramedia.com:8004/live</uri>
+  </Station>
+  <Station>
+    <name>BSP Radio</name>
+    <uri>http://stream.suararadio.com:8000/bspradio_stereo</uri>
+  </Station>
+  <Station>
+    <name>C Radio 684</name>
+    <uri>http://185.177.21.202:7020/live</uri>
+  </Station>
+  <Station>
+    <name>C Radio cikarang</name>
+    <uri>http://live.almuwahhidiin.com:8899</uri>
+  </Station>
+  <Station>
+    <name>Cakrawala 98.3</name>
+    <uri>http://xapp2450489345c1000321-f-l.i.farm.core.cdn.streamfarm.net/radio_886_rockChannel/128k.mp3</uri>
+  </Station>
+  <Station>
+    <name>Cakrawala FM 89.2</name>
+    <uri>http://cakrawala.onlivestreaming.net:8920/stream</uri>
+  </Station>
+  <Station>
+    <name>Camajaya 102.6 FM</name>
+    <uri>http://live.camajayafm.com:8220/</uri>
+  </Station>
+  <Station>
+    <name>Camajaya FM 102.6</name>
+    <uri>http://live.camajayafm.com:8220/stream</uri>
+  </Station>
+  <Station>
+    <name>Cassanova FM Bali</name>
+    <uri>http://103.255.120.26:8000/cassanova102fm.com</uri>
+  </Station>
+  <Station>
+    <name>Catfish Radio</name>
+    <uri>http://50.22.212.196/proxy/catfishr?mp=/stream</uri>
+  </Station>
+  <Station>
+    <name>CBL FM Bandung</name>
+    <uri>http://115.178.48.19:1120</uri>
+  </Station>
+  <Station>
+    <name>CDBS FM Bali</name>
+    <uri>http://173.244.206.130:9450/aac</uri>
+  </Station>
+  <Station>
+    <name>CDBS FM Bali 94.5</name>
+    <uri>http://103.28.148.18:8136/</uri>
+  </Station>
+  <Station>
+    <name>Cirebon Radio</name>
+    <uri>http://175.103.49.43:8000</uri>
+  </Station>
+  <Station>
+    <name>Citra FM Kendal</name>
+    <uri>http://stream.suararadio.com:8000/citrafmkendal_stereo</uri>
+  </Station>
+  <Station>
+    <name>City radio</name>
+    <uri>http://streaming.cityradio.id:8000/cityradio.ogg</uri>
+  </Station>
+  <Station>
+    <name>City Radio Medan</name>
+    <uri>http://live.cityradio.id:9590/</uri>
+  </Station>
+  <Station>
+    <name>CityFM Medan 城市之音</name>
+    <uri>http://live.cityradio.id:8000/cityradio.ogg</uri>
+  </Station>
+  <Station>
+    <name>Cityguide 911 fm</name>
+    <uri>http://i.klikhost.com:8230/;</uri>
+  </Station>
+  <Station>
+    <name>Clapita</name>
+    <uri>http://onlineradio2.com/listen/Clapita_1030</uri>
+  </Station>
+  <Station>
+    <name>Classy 103.4</name>
+    <uri>http://classyfm.onlivestreaming.net:1034</uri>
+  </Station>
+  <Station>
+    <name>Club FM</name>
+    <uri>http://player.streamtheworld.com/_players/citadel/?sid=2943</uri>
+  </Station>
+  <Station>
+    <name>CNS RADIO / Cegah Narkoba Streaming Radio</name>
+    <uri>http://cns.onlivestreaming.net:9494/live</uri>
+  </Station>
+  <Station>
+    <name>Colors 87.7</name>
+    <uri>http://i.klikhost.net:8064/</uri>
+  </Station>
+  <Station>
+    <name>Colors Radio</name>
+    <uri>http://i.klikhost.com:8768/</uri>
+  </Station>
+  <Station>
+    <name>Cool Music NOW</name>
+    <uri>http://streaming.coolkas.com:8024</uri>
+  </Station>
+  <Station>
+    <name>Cosmopolitan 90.4 FM Jakarta</name>
+    <uri>http://cloudstreaming.mramedia.com:8002/live</uri>
+  </Station>
+  <Station>
+    <name>Cosmopolitan FM</name>
+    <uri>http://mra.rastream.com/mra_cosmo</uri>
+  </Station>
+  <Station>
+    <name>Cosmopolitan FM Jakarta</name>
+    <uri>http://103.226.246.220:80/mra_cosmo</uri>
+  </Station>
+  <Station>
+    <name>CRadio</name>
+    <uri>http://111.68.31.150:8000/cradio.mp3</uri>
+  </Station>
+  <Station>
+    <name>D! Radio Lampung</name>
+    <uri>http://stream.dradiolampung.com:8120/</uri>
+  </Station>
+  <Station>
+    <name>D!Radio 94.4 FM</name>
+    <uri>http://stream.dradiolampung.com:8000/dradiofm</uri>
+  </Station>
+  <Station>
+    <name>D'OZ Radio 101.2 FM Bali</name>
+    <uri>http://radio.simaya.net.id:1320</uri>
+  </Station>
+  <Station>
+    <name>D'Radio Subang</name>
+    <uri>http://198.144.189.232:8005</uri>
+  </Station>
+  <Station>
+    <name>Dairi FM Cirebon</name>
+    <uri>http://103.28.148.18:8656</uri>
+  </Station>
+  <Station>
+    <name>Dairi FM Cirebon 87.6</name>
+    <uri>http://103.28.148.18:8656/</uri>
+  </Station>
+  <Station>
+    <name>Dakta Radio</name>
+    <uri>http://175.103.56.9:9968/;stream.nsv&amp;type=mp3</uri>
+  </Station>
+  <Station>
+    <name>Dakwah sunah</name>
+    <uri>http://live.dakwahsunnah.com</uri>
+  </Station>
+  <Station>
+    <name>Dakwatul Mushtofa</name>
+    <uri>http://stream.radiodakwahmustofa.com:8724</uri>
+  </Station>
+  <Station>
+    <name>Dakwatul Musthofa Lumajang 88.10 FM</name>
+    <uri>http://stream.radiodakwahmustofa.com:8724/;stream</uri>
+  </Station>
+  <Station>
+    <name>Damashinta FM Pekalongan</name>
+    <uri>http://damashinta.no-ip.org:8000/</uri>
+  </Station>
+  <Station>
+    <name>DanceSignal Radio</name>
+    <uri>http://128.199.243.21:8001/genre3</uri>
+  </Station>
+  <Station>
+    <name>DBFM</name>
+    <uri>http://203.29.26.242:9080</uri>
+  </Station>
+  <Station>
+    <name>DBFM Cirebon</name>
+    <uri>http://stream.suararadio.com:8000/dbfm_cirebon_mp3</uri>
+  </Station>
+  <Station>
+    <name>DBs 101</name>
+    <uri>http://i.klikhost.com:8612</uri>
+  </Station>
+  <Station>
+    <name>De best radio pemalang</name>
+    <uri>http://103.28.148.18:9196</uri>
+  </Station>
+  <Station>
+    <name>De5 FM Samarinda</name>
+    <uri>http://69.73.163.217:8088</uri>
+  </Station>
+  <Station>
+    <name>Delta FM</name>
+    <uri>http://103.21.81.159:80/masima-deltasurabaya</uri>
+  </Station>
+  <Station>
+    <name>Delta FM / Makassar</name>
+    <uri>http://103.226.246.18:80/masima-deltajakarta</uri>
+  </Station>
+  <Station>
+    <name>Delta FM / Yogya</name>
+    <uri>http://live.masima.co.id/fyog</uri>
+  </Station>
+  <Station>
+    <name>Delta FM 968</name>
+    <uri>http://masima.rastream.com/masima-deltasurabaya</uri>
+  </Station>
+  <Station>
+    <name>Delta FM 99.1 Jakarta</name>
+    <uri>http://masima.rastream.com/masima-deltajakarta?type=.mp3&amp;amp;_=0.4441217929124832</uri>
+  </Station>
+  <Station>
+    <name>Delta FM Medan</name>
+    <uri>http://103.21.81.159:80/masima-deltamedan</uri>
+  </Station>
+  <Station>
+    <name>Delta FM Medan 105.8 FM</name>
+    <uri>http://masima.rastream.com/masima-deltamedan</uri>
+  </Station>
+  <Station>
+    <name>Delta FM Semarang</name>
+    <uri>http://103.21.81.159:80/masima-deltasemarang</uri>
+  </Station>
+  <Station>
+    <name>Dengerin Musik</name>
+    <uri>http://198.56.183.99:8000/stream</uri>
+  </Station>
+  <Station>
+    <name>Dengerin Musik Indonesia</name>
+    <uri>http://stream.denger.in:8000/mp3</uri>
+  </Station>
+  <Station>
+    <name>DFM 103.4 Jakarta</name>
+    <uri>http://streaming.radio.co:80/s2c4ce84ef/listen</uri>
+  </Station>
+  <Station>
+    <name>Dhammavijja On The Air</name>
+    <uri>http://173.193.219.163:8541/</uri>
+  </Station>
+  <Station>
+    <name>Dino Radio Samarinda</name>
+    <uri>http://ina.vinhostmedia.com:8000/dinofm</uri>
+  </Station>
+  <Station>
+    <name>Distorsi Jiwa Radio</name>
+    <uri>http://djr.onlivestreaming.net:9696/stream</uri>
+  </Station>
+  <Station>
+    <name>Diwirya</name>
+    <uri>http://cast.idvps.com:8000/djwirya</uri>
+  </Station>
+  <Station>
+    <name>DJ FM</name>
+    <uri>http://202.154.57.172:9000/djfm</uri>
+  </Station>
+  <Station>
+    <name>DJ Wirya FM</name>
+    <uri>http://202.87.187.11:2020/</uri>
+  </Station>
+  <Station>
+    <name>DMS Ambon</name>
+    <uri>http://live2.indostreamserver.com:8130/;7247144555258886stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>DONNAFM</name>
+    <uri>http://i.klikhost.com:8682</uri>
+  </Station>
+  <Station>
+    <name>Dreamers Radio</name>
+    <uri>http://live.dreamersradio.com:8500/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Dreamers radio 2</name>
+    <uri>http://103.227.252.90:8500/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>DSK</name>
+    <uri>http://103.16.199.177:8300/;?type=.mp3%2F%3Bstream.mp3&amp;_=1</uri>
+  </Station>
+  <Station>
+    <name>Duta FM Ambon 90.9</name>
+    <uri>http://live.dutafm.com:8182/stream</uri>
+  </Station>
+  <Station>
+    <name>Ebebroadcast</name>
+    <uri>http://radio.ebebroadcast.com:1079/autodj</uri>
+  </Station>
+  <Station>
+    <name>EBS 105.9 FM</name>
+    <uri>http://202.43.173.188:8100</uri>
+  </Station>
+  <Station>
+    <name>EBS FM</name>
+    <uri>http://streaming.ebsfm.com:8100/</uri>
+  </Station>
+  <Station>
+    <name>Ebsfm</name>
+    <uri>http://streaming.suzanafm.com:8100/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Echo FM</name>
+    <uri>http://echofm.indostreamserver.com:8040</uri>
+  </Station>
+  <Station>
+    <name>El John</name>
+    <uri>http://103.28.148.18:8028/</uri>
+  </Station>
+  <Station>
+    <name>El John 885</name>
+    <uri>http://sc.streamingmurah.com:8885/</uri>
+  </Station>
+  <Station>
+    <name>El Victor 93.3</name>
+    <uri>http://elvictorfm.onlivestreaming.net:8123/stream?1522166768349</uri>
+  </Station>
+  <Station>
+    <name>El/Shaddai FM</name>
+    <uri>http://shaddai.onlivestreaming.net:9130/live</uri>
+  </Station>
+  <Station>
+    <name>Elgangga</name>
+    <uri>http://103.28.148.18:8174/</uri>
+  </Station>
+  <Station>
+    <name>Elgangga FM</name>
+    <uri>http://103.28.148.18:8174</uri>
+  </Station>
+  <Station>
+    <name>Elgazza fm Pasuruan</name>
+    <uri>http://188.165.229.150:49700</uri>
+  </Station>
+  <Station>
+    <name>Elisa FM Salatiga</name>
+    <uri>http://203.29.26.205:8008</uri>
+  </Station>
+  <Station>
+    <name>Elkoga Radio Bali</name>
+    <uri>http://elkoga.channel-11.net/elkoga</uri>
+  </Station>
+  <Station>
+    <name>Elpas FM 101.2 FM Bogor</name>
+    <uri>http://live.serverstreaming.net:8888/elpasfm</uri>
+  </Station>
+  <Station>
+    <name>Elshinta</name>
+    <uri>http://202.137.4.147:8000/;</uri>
+  </Station>
+  <Station>
+    <name>Elshinta News &amp; Talk 90.0 FM Jakarta</name>
+    <uri>http://202.137.4.147:8000</uri>
+  </Station>
+  <Station>
+    <name>Eltichannel</name>
+    <uri>http://45.64.97.82:9973/stream</uri>
+  </Station>
+  <Station>
+    <name>EMC StarFamily</name>
+    <uri>http://emc.myradio.web.id:8888/starfamily</uri>
+  </Station>
+  <Station>
+    <name>Era FM UNJ</name>
+    <uri>http://radio.erafm-unj.com:8000/stream</uri>
+  </Station>
+  <Station>
+    <name>Erdamah FM</name>
+    <uri>http://103.28.148.18:8790</uri>
+  </Station>
+  <Station>
+    <name>ERka Radio</name>
+    <uri>http://rkradionet.hbba-his.com:8000/live</uri>
+  </Station>
+  <Station>
+    <name>ERTe FM 94.8</name>
+    <uri>http://103.28.148.18:9194</uri>
+  </Station>
+  <Station>
+    <name>Evella Palangkaraya</name>
+    <uri>http://live.radioevella.com:8178</uri>
+  </Station>
+  <Station>
+    <name>FAJAR FM 89.3 MHz Makassar</name>
+    <uri>http://103.28.148.18:9074</uri>
+  </Station>
+  <Station>
+    <name>Fajri AM Bandung</name>
+    <uri>http://173.0.54.123:8000/fajrifm.ogg</uri>
+  </Station>
+  <Station>
+    <name>Fajri AM Bandung 1458</name>
+    <uri>http://150.107.148.147:9930/</uri>
+  </Station>
+  <Station>
+    <name>Fajri FM</name>
+    <uri>http://119.82.224.250:7160/</uri>
+  </Station>
+  <Station>
+    <name>Fajri Fm</name>
+    <uri>http://radio.fajrifm.com:7160/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>FajriFM 993</name>
+    <uri>http://coloid.fajrifm.com:9930/</uri>
+  </Station>
+  <Station>
+    <name>Fanesa5</name>
+    <uri>http://103.28.148.18:8302/;?1534932766437</uri>
+  </Station>
+  <Station>
+    <name>Fanesalima FM</name>
+    <uri>http://i.klikhost.com:8302</uri>
+  </Station>
+  <Station>
+    <name>Fast FM Magelang</name>
+    <uri>http://stream.suararadio.com:8000/fastfm_magelang_stereo</uri>
+  </Station>
+  <Station>
+    <name>FBFM</name>
+    <uri>http://103.28.148.220:8006/</uri>
+  </Station>
+  <Station>
+    <name>FBI Bali Radio</name>
+    <uri>http://server.fbifm.com:9180/fbibaliradio</uri>
+  </Station>
+  <Station>
+    <name>FBI FM Bali</name>
+    <uri>http://server.fbifm.com:9180/fbibaliradio;</uri>
+  </Station>
+  <Station>
+    <name>FC Radio</name>
+    <uri>http://scg.streamingmurah.com:8044/stream</uri>
+  </Station>
+  <Station>
+    <name>FeMale Radio</name>
+    <uri>http://stream.masima.co.id:8894</uri>
+  </Station>
+  <Station>
+    <name>FeMale Radio FM 97.9 Jakarta</name>
+    <uri>http://masima.rastream.com/masima-femaleradio?type=.mp3</uri>
+  </Station>
+  <Station>
+    <name>Fit Radio Bandung 94.8 FM</name>
+    <uri>http://fitradio.co.id:9964/;</uri>
+  </Station>
+  <Station>
+    <name>Flamboyan 99.6 FM Karawang</name>
+    <uri>http://103.28.148.18:8236/;423544920539005stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Flamboyan FM Karawang</name>
+    <uri>http://103.28.148.18:8236</uri>
+  </Station>
+  <Station>
+    <name>Fmhm</name>
+    <uri>http://ns3.indonesiastreaming.com:8000/mhfm</uri>
+  </Station>
+  <Station>
+    <name>FOSIMedia</name>
+    <uri>http://45.64.97.82:8190/stream</uri>
+  </Station>
+  <Station>
+    <name>Freemagz / FMD Radio</name>
+    <uri>http://fire.wavestreamer.com:6389/stream/1/</uri>
+  </Station>
+  <Station>
+    <name>Fresh FM Tangerang</name>
+    <uri>http://103.28.148.18:8122</uri>
+  </Station>
+  <Station>
+    <name>Gajah mada fm</name>
+    <uri>http://gajahmada.i.streaming.id:8000/live</uri>
+  </Station>
+  <Station>
+    <name>Gajahmada FM</name>
+    <uri>http://us.gajahmada.fm:8080/live</uri>
+  </Station>
+  <Station>
+    <name>Galasika FM Luwuk</name>
+    <uri>http://45.64.97.211:9910/</uri>
+  </Station>
+  <Station>
+    <name>Gama FM Tegal</name>
+    <uri>http://stream.suararadio.com:8000/tegal_gamafm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Gamasi FM</name>
+    <uri>http://s3.vinhostmedia.com:9504/;</uri>
+  </Station>
+  <Station>
+    <name>Gaya FM</name>
+    <uri>http://175.103.49.121:8000</uri>
+  </Station>
+  <Station>
+    <name>Gaya FM 93.6</name>
+    <uri>http://stream.suararadio.com:8000/bekasi_gayafm_stereo</uri>
+  </Station>
+  <Station>
+    <name>GCD FM Yogyakarta 98.6</name>
+    <uri>http://jgj.jogjastreamers.com:8000/gcdstereo?s=639534222810025</uri>
+  </Station>
+  <Station>
+    <name>Ge FM Gabriel Madiun</name>
+    <uri>http://gefm.onlivestreaming.net:9520/stream</uri>
+  </Station>
+  <Station>
+    <name>Gema FM</name>
+    <uri>http://103.28.148.18:1059</uri>
+  </Station>
+  <Station>
+    <name>GEMAYA 104.5 FM</name>
+    <uri>http://103.28.148.220:9960/</uri>
+  </Station>
+  <Station>
+    <name>Gemerlap FM</name>
+    <uri>http://103.28.148.18:8048</uri>
+  </Station>
+  <Station>
+    <name>Gen FM</name>
+    <uri>http://streaming.sim-indonesia.com:8000/genfm</uri>
+  </Station>
+  <Station>
+    <name>Gen FM / Surabaya</name>
+    <uri>http://streaming.sim-indonesia.com:8000/gensby;</uri>
+  </Station>
+  <Station>
+    <name>Gen FM Surabaya</name>
+    <uri>http://streaming.sim-indonesia.com:8000/gensby</uri>
+  </Station>
+  <Station>
+    <name>Geronimo</name>
+    <uri>http://158.69.119.235:8018/;</uri>
+  </Station>
+  <Station>
+    <name>Geronimo 106.1 FM Jogja</name>
+    <uri>http://usa.jogjastreamers.com:8000/geronimo67890</uri>
+  </Station>
+  <Station>
+    <name>Geronimo FM</name>
+    <uri>http://167.114.174.57:8004/</uri>
+  </Station>
+  <Station>
+    <name>Geronimo FM / Jogja</name>
+    <uri>http://live2.indostreamserver.com:8018/;</uri>
+  </Station>
+  <Station>
+    <name>GESANG FM</name>
+    <uri>http://sci.streamingmurah.com:8357/stream</uri>
+  </Station>
+  <Station>
+    <name>Gesma FM Sukoharjo</name>
+    <uri>http://stream.suararadio.com:8000/sukoharjo_gesmafm_mono</uri>
+  </Station>
+  <Station>
+    <name>GGLink</name>
+    <uri>http://103.65.236.170:8199/</uri>
+  </Station>
+  <Station>
+    <name>Giss Radio</name>
+    <uri>http://199.167.134.163:7038</uri>
+  </Station>
+  <Station>
+    <name>Gita Bali</name>
+    <uri>http://45.32.128.32:9304/stream</uri>
+  </Station>
+  <Station>
+    <name>Gita fm</name>
+    <uri>http://stream.suararadio.com:8000/gitafmjombang-mono</uri>
+  </Station>
+  <Station>
+    <name>Global FM Lombok</name>
+    <uri>http://103.28.148.18:8628</uri>
+  </Station>
+  <Station>
+    <name>Global Radio</name>
+    <uri>http://202.147.199.98/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Global Radio / Bandung</name>
+    <uri>http://stream.radbdg.net:8000/globalradiobandung.mp3</uri>
+  </Station>
+  <Station>
+    <name>Global Radio 88.4</name>
+    <uri>http://202.147.199.98:80/;</uri>
+  </Station>
+  <Station>
+    <name>Gloria Paramitha FM 97.4 - Lumajang</name>
+    <uri>http://host1-sg.xajist.com:8180/stream;</uri>
+  </Station>
+  <Station>
+    <name>Glory dhe</name>
+    <uri>http://live.radio-i2.com:8092</uri>
+  </Station>
+  <Station>
+    <name>Gmc radio</name>
+    <uri>http://shaincast.caster.fm:33628/listen.mp3?authn0c4ee497922a7bf6ab7661b7c58185f1</uri>
+  </Station>
+  <Station>
+    <name>Go Batak Radio</name>
+    <uri>http://192.240.102.133:11700/stream/1/</uri>
+  </Station>
+  <Station>
+    <name>Gobatak Radio</name>
+    <uri>http://192.240.102.133:11700/stream</uri>
+  </Station>
+  <Station>
+    <name>Goldenheart Radio 92.6 FM Manado</name>
+    <uri>http://ghfm.ddns.net:8000/goldenheart</uri>
+  </Station>
+  <Station>
+    <name>GOOD NEWS FM 94.9 Semarang</name>
+    <uri>http://i.klikhost.net:8600/;?</uri>
+  </Station>
+  <Station>
+    <name>GP FM Blanakan Subang</name>
+    <uri>http://i.klikhost.com:9176/</uri>
+  </Station>
+  <Station>
+    <name>Gr</name>
+    <uri>http://usa.jogjastreamers.com:8000/geronimo67890stereo?s=02737</uri>
+  </Station>
+  <Station>
+    <name>Grace Alone Radio</name>
+    <uri>http://u.klikhost.net:8000/gracealone</uri>
+  </Station>
+  <Station>
+    <name>Gradiosta FM Purwokerto</name>
+    <uri>http://liveradio.masima.co.id:9000/</uri>
+  </Station>
+  <Station>
+    <name>Green Radio</name>
+    <uri>http://greenradio.onlivestreaming.net:8920/stream</uri>
+  </Station>
+  <Station>
+    <name>GSP Radio Pamanukan</name>
+    <uri>http://50.115.124.196:28192/</uri>
+  </Station>
+  <Station>
+    <name>Gun</name>
+    <uri>http://i.klikhost.net:9158</uri>
+  </Station>
+  <Station>
+    <name>Guntur FM</name>
+    <uri>http://gunturfm.onlivestreaming.net:9595/stream</uri>
+  </Station>
+  <Station>
+    <name>GWP Sangatta</name>
+    <uri>http://gwp.onlivestreaming.net:9860/stream</uri>
+  </Station>
+  <Station>
+    <name>Hanacaraka FM</name>
+    <uri>http://103.28.148.18:9000</uri>
+  </Station>
+  <Station>
+    <name>Hang FM</name>
+    <uri>http://live.hang106.com:80/</uri>
+  </Station>
+  <Station>
+    <name>Hard Rock / Bali</name>
+    <uri>http://cloudstreaming.mramedia.com:8012/live</uri>
+  </Station>
+  <Station>
+    <name>Hard Rock FM / Bandung</name>
+    <uri>http://cloudstreaming.mramedia.com:8010/live</uri>
+  </Station>
+  <Station>
+    <name>Hard Rock FM / Jakarta</name>
+    <uri>http://cloudstreaming.mramedia.com:8001/live</uri>
+  </Station>
+  <Station>
+    <name>Hard Rock FM / Surabaya</name>
+    <uri>http://cloudstreaming.mramedia.com:8011/live</uri>
+  </Station>
+  <Station>
+    <name>Haryani FM Tasikmalaya</name>
+    <uri>http://live.haryanifm.com:8000/live</uri>
+  </Station>
+  <Station>
+    <name>Hit FM</name>
+    <uri>http://103.16.199.43:8900</uri>
+  </Station>
+  <Station>
+    <name>Hits Radio 103.9 FM Bandung</name>
+    <uri>http://hits.simayaradio.com:9996/;981568821819954stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>HITS Radio Bandung</name>
+    <uri>http://hits.simayaradio.com:9996/;</uri>
+  </Station>
+  <Station>
+    <name>Hitsradiobdg</name>
+    <uri>http://hits.simayaradio.com:9996/;7192273960891256stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Hitz FM 96.7</name>
+    <uri>http://103.16.199.43:8900/</uri>
+  </Station>
+  <Station>
+    <name>Hitz FM 96.7 FM</name>
+    <uri>http://103.16.199.43:8900/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>HMM Radio</name>
+    <uri>http://radio.hmm-radio.net:8002/mp3</uri>
+  </Station>
+  <Station>
+    <name>HMM/Radio</name>
+    <uri>http://stream.hmm-radio.net:8002/mp3</uri>
+  </Station>
+  <Station>
+    <name>Hot 105.5 FM</name>
+    <uri>http://newcap.leanstream.co/CKQKFM?args=3rdparty_02&amp;uid=d93e1b5d-5694-497b-8b39-dcddeefa4d5b</uri>
+  </Station>
+  <Station>
+    <name>HOT 93.2 FM</name>
+    <uri>http://streaming.sportku.com:8000/dut</uri>
+  </Station>
+  <Station>
+    <name>HPR2 Public Radio</name>
+    <uri>http://50.7.77.179:8022/;stream/1</uri>
+  </Station>
+  <Station>
+    <name>I Radio / Jogja 88.7 FM</name>
+    <uri>http://cloudstreaming.mramedia.com:8006/live</uri>
+  </Station>
+  <Station>
+    <name>I Radio FM</name>
+    <uri>http://cloudstreaming.mramedia.com:8000/live</uri>
+  </Station>
+  <Station>
+    <name>I Radio Makassar</name>
+    <uri>http://streaming.mramedia.com:8000/iradio_mksr_mp3</uri>
+  </Station>
+  <Station>
+    <name>I Radio Medan</name>
+    <uri>http://streaming.mramedia.com:8001/irfm-mdn</uri>
+  </Station>
+  <Station>
+    <name>I Radio Medan 98.3</name>
+    <uri>http://cloudstreaming.mramedia.com:8009/stream</uri>
+  </Station>
+  <Station>
+    <name>IBC FM 101.6 FM</name>
+    <uri>http://175.103.49.104:8000/</uri>
+  </Station>
+  <Station>
+    <name>IBNULQOYYIM FM 107.9</name>
+    <uri>http://45.64.97.82:8256/stream</uri>
+  </Station>
+  <Station>
+    <name>Ichthus</name>
+    <uri>http://stream.suararadio.com:8000/ichthusfm_stereo</uri>
+  </Station>
+  <Station>
+    <name>iCSLradio</name>
+    <uri>http://streaming.radio.co/s79bf2e3c1/listen</uri>
+  </Station>
+  <Station>
+    <name>Idrisiyah</name>
+    <uri>http://radio.al-idrisiyyah.com:8000/</uri>
+  </Station>
+  <Station>
+    <name>Imelda FM</name>
+    <uri>http://111.68.27.245:8020/imeldafm</uri>
+  </Station>
+  <Station>
+    <name>Impact radio</name>
+    <uri>https://k007.kiwi6.com/hotlink/bk1p8zzxwi/Bransle_du_Poictou.mp3</uri>
+  </Station>
+  <Station>
+    <name>In_LOCALHOLIC Radio</name>
+    <uri>http://streaming.radionomy.com/in-LOCALHOLICCimahi</uri>
+  </Station>
+  <Station>
+    <name>INDIKA FM</name>
+    <uri>http://103.16.199.47:9160/listen.pls</uri>
+  </Station>
+  <Station>
+    <name>Indika FM</name>
+    <uri>http://103.16.199.47:9160/</uri>
+  </Station>
+  <Station>
+    <name>Indo Trance</name>
+    <uri>http://103.16.199.124:9458/live</uri>
+  </Station>
+  <Station>
+    <name>IRADIO BDG 105.1 FM</name>
+    <uri>http://cloudstreaming.mramedia.com:8005/stream</uri>
+  </Station>
+  <Station>
+    <name>iRadio FM / Bandung</name>
+    <uri>http://cloudstreaming.mramedia.com:8005/live</uri>
+  </Station>
+  <Station>
+    <name>iRadio FM / Banjarmasin</name>
+    <uri>http://cloudstreaming.mramedia.com:8007/stream</uri>
+  </Station>
+  <Station>
+    <name>iRadio FM / Jakarta</name>
+    <uri>http://cloudstreaming.mramedia.com:8000/stream</uri>
+  </Station>
+  <Station>
+    <name>IRADIO FM Makasar</name>
+    <uri>http://cloudstreaming.mramedia.com:8008/stream</uri>
+  </Station>
+  <Station>
+    <name>Irama FM</name>
+    <uri>http://stream.suararadio.com:8000/iramafm_mono</uri>
+  </Station>
+  <Station>
+    <name>Irama FM 88.5</name>
+    <uri>http://stream.suararadio.com:8000/iramafm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Irama fm purworejo</name>
+    <uri>http://stream.suararadio.com:8000/iramafm_stereo?type=mp3</uri>
+  </Station>
+  <Station>
+    <name>Istakalisa FM</name>
+    <uri>http://202.65.114.229:9942</uri>
+  </Station>
+  <Station>
+    <name>Istara 101.1 FM - Surabaya</name>
+    <uri>http://istarafm.onlivestreaming.net:10110/live</uri>
+  </Station>
+  <Station>
+    <name>Itjen Kemdikbud Radio</name>
+    <uri>http://radio.itjen.kemdikbud.go.id:8000/http://10.10.10.132:8000</uri>
+  </Station>
+  <Station>
+    <name>J Radio</name>
+    <uri>http://69.172.211.122:9170</uri>
+  </Station>
+  <Station>
+    <name>Jak FM</name>
+    <uri>http://streaming1.sim-indonesia.com:8000/jak</uri>
+  </Station>
+  <Station>
+    <name>Jak fm</name>
+    <uri>http://mahaka.rastream.com:80/jak.bb</uri>
+  </Station>
+  <Station>
+    <name>Jazz 98.1</name>
+    <uri>http://nashe1.hostingradio.ru/jazz-128.mp3</uri>
+  </Station>
+  <Station>
+    <name>Jazz legend 98.1</name>
+    <uri>http://jfm1.hostingradio.ru:14536/best-256</uri>
+  </Station>
+  <Station>
+    <name>Jepang Radio</name>
+    <uri>http://live.japanesemusicid.com:8000/japanesemusic</uri>
+  </Station>
+  <Station>
+    <name>Jhonlin Radio</name>
+    <uri>http://199.195.194.94:8037/stream</uri>
+  </Station>
+  <Station>
+    <name>Jimbaran</name>
+    <uri>http://103.77.159.148:901/broadwave.mp3?src=1&amp;rate=0&amp;ref=</uri>
+  </Station>
+  <Station>
+    <name>JIZ</name>
+    <uri>http://usa.jogjastreamers.com:8000/jisstereo?s=64087256731239</uri>
+  </Station>
+  <Station>
+    <name>Jiz 89.5 FM Yogyakarta</name>
+    <uri>http://usa.jogjastreamers.com:8000/jisstereo?s=640245950320956</uri>
+  </Station>
+  <Station>
+    <name>JogjaFamily</name>
+    <uri>http://jogjafamily.indostreamserver.com:8100/</uri>
+  </Station>
+  <Station>
+    <name>JogjaFamily 100.9 FM Yogyakarta</name>
+    <uri>http://usa.jogjastreamers.com:8000/jogjafamilystereo?s=626560143959016</uri>
+  </Station>
+  <Station>
+    <name>JOSKA 90.1 FM</name>
+    <uri>http://162.244.80.52:4962/stream/2/;</uri>
+  </Station>
+  <Station>
+    <name>K-Lite FM Bandung</name>
+    <uri>http://stream.suararadio.com:8000/bandung_klitefm_mp3</uri>
+  </Station>
+  <Station>
+    <name>K2FM</name>
+    <uri>http://s2.freeshoutcast.com:27488</uri>
+  </Station>
+  <Station>
+    <name>Kalaweit Palangkaraya</name>
+    <uri>http://45.64.98.181:8012/live</uri>
+  </Station>
+  <Station>
+    <name>Kalimaya Bhaskara</name>
+    <uri>http://stream.suararadio.com:8000/Malang_KalimayaBhaskara_mono</uri>
+  </Station>
+  <Station>
+    <name>Kardopa FM</name>
+    <uri>http://66.225.237.48:8004</uri>
+  </Station>
+  <Station>
+    <name>Karimata</name>
+    <uri>http://live.karimatafm.net:8016/;KARIMATAFM.mp3</uri>
+  </Station>
+  <Station>
+    <name>Kartika 90.7 FM</name>
+    <uri>http://stream.suararadio.com:8000/kartikafm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Kartika FM Metro</name>
+    <uri>http://stream.kartikassb.com:8000/stream/3/</uri>
+  </Station>
+  <Station>
+    <name>Kayuagung Radio</name>
+    <uri>http://i.klikhost.net:8000/kayuagung</uri>
+  </Station>
+  <Station>
+    <name>Kei 102.3 FM Batam</name>
+    <uri>http://103.28.148.18:9602/;</uri>
+  </Station>
+  <Station>
+    <name>KeiLove FM</name>
+    <uri>http://103.28.148.18:8700</uri>
+  </Station>
+  <Station>
+    <name>KEMBANG TANJUNG GROBOGAN</name>
+    <uri>http://ns3.indonesiastreaming.com:8000/radiokembangtanjungfm</uri>
+  </Station>
+  <Station>
+    <name>Kencana FM</name>
+    <uri>http://sci.padjajaranhost.com:8111/stream</uri>
+  </Station>
+  <Station>
+    <name>Kencana fm malang</name>
+    <uri>http://server1.klikhost.com:7006</uri>
+  </Station>
+  <Station>
+    <name>Kharisma AM Bandung</name>
+    <uri>http://live2.indostreamserver.com:8006</uri>
+  </Station>
+  <Station>
+    <name>Kharisma FM</name>
+    <uri>http://i.klikhost.com:8112/</uri>
+  </Station>
+  <Station>
+    <name>Kiara FM Padang</name>
+    <uri>http://stream.suararadio.com:8000/padangkiarafm_mono</uri>
+  </Station>
+  <Station>
+    <name>Kis 95.1 FM</name>
+    <uri>http://streaming2.sportku.com:8000/kis</uri>
+  </Station>
+  <Station>
+    <name>KISI 93</name>
+    <uri>http://103.56.232.189:9340/kisifm.mp3</uri>
+  </Station>
+  <Station>
+    <name>KISI 93.4 FM Bogor</name>
+    <uri>http://live.kisifm.com:9340/kisifm</uri>
+  </Station>
+  <Station>
+    <name>KISS 105 FM</name>
+    <uri>http://live.kissfm-medan.com:8080/kissfm.mp3</uri>
+  </Station>
+  <Station>
+    <name>Kiss 96.2 FM / Jember</name>
+    <uri>http://103.28.148.18:8894/</uri>
+  </Station>
+  <Station>
+    <name>Kiss FM / Semarang</name>
+    <uri>http://103.28.148.18:8070/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Kiss FM London</name>
+    <uri>http://icy-e-ba-01-gos.sharp-stream.com/kissnational.mp3</uri>
+  </Station>
+  <Station>
+    <name>KLCBS</name>
+    <uri>http://s3.vinhostmedia.com:1055/</uri>
+  </Station>
+  <Station>
+    <name>KLCBS 100.4 FM Radio Bandung</name>
+    <uri>http://s3.vinhostmedia.com:1055/;</uri>
+  </Station>
+  <Station>
+    <name>Kompas Sonora Jakarta</name>
+    <uri>http://103.226.246.245/kompas-sonorajakarta</uri>
+  </Station>
+  <Station>
+    <name>Kompi Radio</name>
+    <uri>http://125.160.17.21:8014/</uri>
+  </Station>
+  <Station>
+    <name>Komsos Kas</name>
+    <uri>http://komsoskas.org/</uri>
+  </Station>
+  <Station>
+    <name>Kosmonita</name>
+    <uri>http://202.58.200.197:1055/live</uri>
+  </Station>
+  <Station>
+    <name>Kosmonita FM Malang</name>
+    <uri>http://202.58.200.197:1055/</uri>
+  </Station>
+  <Station>
+    <name>Kotafm</name>
+    <uri>http://u.klikhost.net:8000/kotafmbojonegoro</uri>
+  </Station>
+  <Station>
+    <name>Kotaperak FM Yogyakarta</name>
+    <uri>http://203.30.236.2:9460</uri>
+  </Station>
+  <Station>
+    <name>KPFM Balikpapan 95.4 FM</name>
+    <uri>http://36.89.249.27:8000/</uri>
+  </Station>
+  <Station>
+    <name>Krakatau Radio</name>
+    <uri>http://175.103.49.108:8000/</uri>
+  </Station>
+  <Station>
+    <name>Kuta Radio Bali</name>
+    <uri>http://202.164.221.13:8001/</uri>
+  </Station>
+  <Station>
+    <name>KVLT MAGZ / KVLT Radio</name>
+    <uri>http://kvltmagz.com:8000/listen</uri>
+  </Station>
+  <Station>
+    <name>Lawas</name>
+    <uri>http://scg.streamingmurah.com:7777/;</uri>
+  </Station>
+  <Station>
+    <name>Lazuar 94.1 FM Karawang</name>
+    <uri>http://stream.suararadio.com:8000/karawang_lazuarfm_mp3</uri>
+  </Station>
+  <Station>
+    <name>Lazuar FM</name>
+    <uri>http://radio.lazuarfm.com:9400/</uri>
+  </Station>
+  <Station>
+    <name>LBC FM Lombok</name>
+    <uri>http://s3.vinhostmedia.com:9130</uri>
+  </Station>
+  <Station>
+    <name>Lesmana Bogor 100.1 FM</name>
+    <uri>http://stream.elpasfm.com:8170/lesmanafm</uri>
+  </Station>
+  <Station>
+    <name>Lesmana Bogor FM</name>
+    <uri>http://live.radiolesmana.com:8170/lesmanafm</uri>
+  </Station>
+  <Station>
+    <name>Liiur FM 90.9</name>
+    <uri>http://103.28.148.18:8148/</uri>
+  </Station>
+  <Station>
+    <name>Lintas FM 89.9</name>
+    <uri>http://103.28.148.18:8764/</uri>
+  </Station>
+  <Station>
+    <name>Lite FM</name>
+    <uri>http://streaming2.sim-indonesia.com:8000/most</uri>
+  </Station>
+  <Station>
+    <name>Losta FM</name>
+    <uri>http://i.klikhost.net:8614</uri>
+  </Station>
+  <Station>
+    <name>M Radio</name>
+    <uri>http://174.36.232.226:8008/</uri>
+  </Station>
+  <Station>
+    <name>M Radio 102.7</name>
+    <uri>http://mradiosamarinda.blogspot.in/2010/06/streaming-m-radio-1027-fm.html</uri>
+  </Station>
+  <Station>
+    <name>M Radio Pontianak</name>
+    <uri>http://103.28.148.18:8100/</uri>
+  </Station>
+  <Station>
+    <name>Madam</name>
+    <uri>http://119.235.255.206:8076/;stream/1</uri>
+  </Station>
+  <Station>
+    <name>Madama</name>
+    <uri>http://119.235.255.206:8076/;</uri>
+  </Station>
+  <Station>
+    <name>Madama FM</name>
+    <uri>http://live.madamafm.com:8076</uri>
+  </Station>
+  <Station>
+    <name>Maestro</name>
+    <uri>http://maestro.skyline.net.id:10925/radio.maestro</uri>
+  </Station>
+  <Station>
+    <name>Magenta Radio UNY</name>
+    <uri>http://radio.uny.ac.id:8000/magenta2</uri>
+  </Station>
+  <Station>
+    <name>Mahmudin</name>
+    <uri>http://119.235.255.206:8154/;?1539596334861</uri>
+  </Station>
+  <Station>
+    <name>MajaFM 100.7</name>
+    <uri>http://majafm.onlivestreaming.net:10070/stream</uri>
+  </Station>
+  <Station>
+    <name>Malala Radio 105.2 FM Cirebon</name>
+    <uri>http://103.28.148.18:8218</uri>
+  </Station>
+  <Station>
+    <name>Malangkucecwara FM</name>
+    <uri>http://202.164.218.22:8222/</uri>
+  </Station>
+  <Station>
+    <name>Malowopati FM 95.8</name>
+    <uri>http://50.22.217.113:11341/;</uri>
+  </Station>
+  <Station>
+    <name>Mandala FM Banyuwangi</name>
+    <uri>http://stream.suararadio.com:8000/964_MANDALA_FM_Mono</uri>
+  </Station>
+  <Station>
+    <name>Mandarin Station 98.3 FM</name>
+    <uri>http://live2.indostreamserver.com:8016/;</uri>
+  </Station>
+  <Station>
+    <name>Mandarin Station 98.3 FM Jakarta</name>
+    <uri>http://119.235.255.206:8052</uri>
+  </Station>
+  <Station>
+    <name>Mandiri FM Cilegon</name>
+    <uri>http://103.65.237.42:8001/stream</uri>
+  </Station>
+  <Station>
+    <name>Manggis jambi fm</name>
+    <uri>http://stream.suararadio.com:8000/manggisfm_mono</uri>
+  </Station>
+  <Station>
+    <name>Masdha 95.00 FM</name>
+    <uri>http://usa.jogjastreamers.com:8000/masda</uri>
+  </Station>
+  <Station>
+    <name>MatrixFM Ponorogo</name>
+    <uri>http://live.radiomatrixfm.com:8000/;</uri>
+  </Station>
+  <Station>
+    <name>Mayangkara</name>
+    <uri>http://streaming.mayangkara.net:8000/mayangkara-aacmed?type=.mp3%2F%3Bstream.mp3&amp;_=1</uri>
+  </Station>
+  <Station>
+    <name>Mazmur FM</name>
+    <uri>http://u.klikhost.com:7118</uri>
+  </Station>
+  <Station>
+    <name>MBS 92.7 FM</name>
+    <uri>http://jkt.jogjastreamers.com:8000/mbs2345stereo</uri>
+  </Station>
+  <Station>
+    <name>MBS FM</name>
+    <uri>http://198.167.136.147:7000</uri>
+  </Station>
+  <Station>
+    <name>MDC FM</name>
+    <uri>http://radio.mitra.net.id:8112</uri>
+  </Station>
+  <Station>
+    <name>MDC FM 100.5</name>
+    <uri>http://radio.mitra.net.id:8112/</uri>
+  </Station>
+  <Station>
+    <name>Medan FM</name>
+    <uri>http://live.medanfm.id:9630/</uri>
+  </Station>
+  <Station>
+    <name>Medan FM / 96.3 FM</name>
+    <uri>http://streaming.medanfm.id:8000/medanfm.ogg</uri>
+  </Station>
+  <Station>
+    <name>Media FM 90.1</name>
+    <uri>http://streaming.radiomediafm.com:8400</uri>
+  </Station>
+  <Station>
+    <name>Mega FM Bali</name>
+    <uri>http://u.klikhost.com/singleplaylist.php?ip=i.klikhost.net&amp;port=8196&amp;format=PLS</uri>
+  </Station>
+  <Station>
+    <name>Megah FM</name>
+    <uri>http://live2.indostreamserver.com:8064/</uri>
+  </Station>
+  <Station>
+    <name>Megaswara Bogor</name>
+    <uri>http://119.235.255.206:8204/;/;063649523465167stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>MEGASWARA FM INDRAMAYU</name>
+    <uri>http://198.71.90.155:8612</uri>
+  </Station>
+  <Station>
+    <name>Megaswara Jogja</name>
+    <uri>http://203.30.236.2:9380</uri>
+  </Station>
+  <Station>
+    <name>Memora 89.2 FM Gorontalo</name>
+    <uri>http://live3.rs3fm.com:8000/mradio</uri>
+  </Station>
+  <Station>
+    <name>MemoraFM</name>
+    <uri>http://i.klikhost.net:8600/;?type=.mp3%2F%3Bstream.mp3&amp;_=1</uri>
+  </Station>
+  <Station>
+    <name>Menara 102.8 FM Denpasar</name>
+    <uri>http://server.menara-fm.com:10280/menarafmbali</uri>
+  </Station>
+  <Station>
+    <name>Menara 102.8 FM Radio Bali</name>
+    <uri>http://menarafm.onlivestreaming.net:10280/menarafmbali.m3u</uri>
+  </Station>
+  <Station>
+    <name>Menara FM</name>
+    <uri>http://menarafm.onlivestreaming.net:10280/menarafmbali</uri>
+  </Station>
+  <Station>
+    <name>Mendhut FM</name>
+    <uri>http://streaming.mendhutfm.com:8790/stream</uri>
+  </Station>
+  <Station>
+    <name>Mendoza FM Pekanbaru</name>
+    <uri>http://live.indostreamserver.com:8192</uri>
+  </Station>
+  <Station>
+    <name>Merapi indah fm</name>
+    <uri>http://87.117.228.65/stream.mp3?ipport=87.117.228.65_12823</uri>
+  </Station>
+  <Station>
+    <name>Mercy FM 88.0</name>
+    <uri>http://i.klikhost.com:8306/</uri>
+  </Station>
+  <Station>
+    <name>Merdeka FM Surabaya</name>
+    <uri>http://streaming.merdekafm.com:8020/;Merdeka%20FM</uri>
+  </Station>
+  <Station>
+    <name>Mersifm</name>
+    <uri>http://mersifm939.myradio.web.id:8888/mersifm939</uri>
+  </Station>
+  <Station>
+    <name>Mersifm jakarta</name>
+    <uri>http://yayin.turknokta.net:4646/;?_=0.6299895172021542</uri>
+  </Station>
+  <Station>
+    <name>Metro FM Jambi 101.9</name>
+    <uri>http://live.metrofmjambi.com:8170/</uri>
+  </Station>
+  <Station>
+    <name>Metro Mulawarman Samarinda 101.9FM</name>
+    <uri>http://110.139.150.167:8000</uri>
+  </Station>
+  <Station>
+    <name>Metta FM</name>
+    <uri>http://50.115.124.196:20964</uri>
+  </Station>
+  <Station>
+    <name>Metta FM 104.7</name>
+    <uri>http://mettafm.listen2myradio.com/</uri>
+  </Station>
+  <Station>
+    <name>MFM 101.3</name>
+    <uri>http://202.164.218.22:8222/;</uri>
+  </Station>
+  <Station>
+    <name>MG Radio</name>
+    <uri>http://201.161.42.107:8192/</uri>
+  </Station>
+  <Station>
+    <name>MGT</name>
+    <uri>http://radio.mygreenlinks.net/mgtradio</uri>
+  </Station>
+  <Station>
+    <name>MGT 101.1 FM Bandung</name>
+    <uri>http://s3.vinhostmedia.com:9572/;stream.mp3;</uri>
+  </Station>
+  <Station>
+    <name>MGT RADIO</name>
+    <uri>http://202.90.195.202/mgtradio</uri>
+  </Station>
+  <Station>
+    <name>Mitra 97 FM</name>
+    <uri>http://radio.mitrafm.com:9797/live</uri>
+  </Station>
+  <Station>
+    <name>MITRAFM Purwokerto</name>
+    <uri>http://stream.suararadio.com:8000/purwokerto_mitrafm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Mits Radio</name>
+    <uri>http://mits.onlivestreaming.net:9393/stream</uri>
+  </Station>
+  <Station>
+    <name>MNC  97.1 FM - RDI Jakarta</name>
+    <uri>http://202.147.199.99:8000</uri>
+  </Station>
+  <Station>
+    <name>Moderato FM</name>
+    <uri>http://139.162.17.197:10720/stream</uri>
+  </Station>
+  <Station>
+    <name>Momea fm</name>
+    <uri>http://momeafm.ddns.net:8000/momea</uri>
+  </Station>
+  <Station>
+    <name>Mora Bantren</name>
+    <uri>http://103.28.148.18:8202</uri>
+  </Station>
+  <Station>
+    <name>Mora Jabar</name>
+    <uri>http://jabar.radiomora.com:9012</uri>
+  </Station>
+  <Station>
+    <name>Mora Kalbar</name>
+    <uri>http://103.28.148.18:8616</uri>
+  </Station>
+  <Station>
+    <name>Mora Riau</name>
+    <uri>http://103.28.148.18:8754</uri>
+  </Station>
+  <Station>
+    <name>Mora Sumuy</name>
+    <uri>http://103.28.148.18:9040/</uri>
+  </Station>
+  <Station>
+    <name>Most 105.8 FM</name>
+    <uri>http://203.77.231.140:8000/most</uri>
+  </Station>
+  <Station>
+    <name>Most FM Medan</name>
+    <uri>http://u.klikhost.net:7106/</uri>
+  </Station>
+  <Station>
+    <name>Motion Radio</name>
+    <uri>http://103.226.246.245/kompas-motionjakarta</uri>
+  </Station>
+  <Station>
+    <name>MQFM 102.7 - Bandung Indonesia</name>
+    <uri>http://125.160.17.21:8200/;</uri>
+  </Station>
+  <Station>
+    <name>MQFM 92.3</name>
+    <uri>http://202.91.11.18:8000/</uri>
+  </Station>
+  <Station>
+    <name>MQFM YOGYAKARTA</name>
+    <uri>http://202.91.11.18:8000</uri>
+  </Station>
+  <Station>
+    <name>MRADIO FM</name>
+    <uri>http://s4.viastreaming.net:9015</uri>
+  </Station>
+  <Station>
+    <name>MRADIO PONTIANAK</name>
+    <uri>http://103.28.148.18:8100</uri>
+  </Station>
+  <Station>
+    <name>MS TRI FM</name>
+    <uri>http://mstrifm.onlivestreaming.net:1042/stream</uri>
+  </Station>
+  <Station>
+    <name>MS Tri FM</name>
+    <uri>http://mstrifm.onlivestreaming.net:1042/</uri>
+  </Station>
+  <Station>
+    <name>MSK</name>
+    <uri>http://78.129.224.19/stream.mp3?ipport=78.129.224.19_4164</uri>
+  </Station>
+  <Station>
+    <name>Mt@fm</name>
+    <uri>http://radio.mtafm.com:1079/;</uri>
+  </Station>
+  <Station>
+    <name>MTA 107.9 Surakarta</name>
+    <uri>http://streaming.mtafm.com:10790/</uri>
+  </Station>
+  <Station>
+    <name>MTA FM</name>
+    <uri>http://radio.mtafm.com:1079</uri>
+  </Station>
+  <Station>
+    <name>MTB FM</name>
+    <uri>http://103.28.148.18:8784</uri>
+  </Station>
+  <Station>
+    <name>Mujahidin FM</name>
+    <uri>http://live.mujahidinfm.com:8154</uri>
+  </Station>
+  <Station>
+    <name>Mujahidin FM 105.8</name>
+    <uri>http://119.235.255.206:8154/</uri>
+  </Station>
+  <Station>
+    <name>MUS1C ONE Radio FM</name>
+    <uri>http://radio.mus1c-one.com:9086</uri>
+  </Station>
+  <Station>
+    <name>Mustang 88 FM</name>
+    <uri>http://streaming2.sim-indonesia.com:8000/mustang</uri>
+  </Station>
+  <Station>
+    <name>My Radio</name>
+    <uri>http://202.148.11.104/myradio</uri>
+  </Station>
+  <Station>
+    <name>Nada bontang indah</name>
+    <uri>http://s3.vinhostmedia.com:9960/;listen.mp3?_=1</uri>
+  </Station>
+  <Station>
+    <name>Nadafa FM</name>
+    <uri>http://live.nadafafm.com:8080</uri>
+  </Station>
+  <Station>
+    <name>Nafiri 107.1 FM Surabaya</name>
+    <uri>http://119.2.44.6:8000</uri>
+  </Station>
+  <Station>
+    <name>Nagaswara 99.7 FM Radiotemen Bogor</name>
+    <uri>http://live1.nagaswarafm.com:8088</uri>
+  </Station>
+  <Station>
+    <name>Nagaswara FM</name>
+    <uri>http://bogor.nagaswarafm.com:8088/</uri>
+  </Station>
+  <Station>
+    <name>Nagaswara FM Hongkong</name>
+    <uri>http://45.77.191.75:8088/stream</uri>
+  </Station>
+  <Station>
+    <name>NBS FM</name>
+    <uri>http://stream.suararadio.com:8000/sukabumi_nbsfm</uri>
+  </Station>
+  <Station>
+    <name>NEW AJIB RADIO</name>
+    <uri>http://live.newajibradio.com:8204/</uri>
+  </Station>
+  <Station>
+    <name>New Prasasty Fm 107.8</name>
+    <uri>http://live.radionewprasastyfm.com:7014/RadioNewPrasastyFM.aac</uri>
+  </Station>
+  <Station>
+    <name>NewShinta FM</name>
+    <uri>http://203.99.131.245:8000/NewShinta97.2FM</uri>
+  </Station>
+  <Station>
+    <name>NG Radio</name>
+    <uri>http://listen.nextgradio.com:9764/stream;</uri>
+  </Station>
+  <Station>
+    <name>Nikoya</name>
+    <uri>http://radio.nikoyafm.com:10600/;</uri>
+  </Station>
+  <Station>
+    <name>Nikoya 106 FM Banda Aceh</name>
+    <uri>http://radio.nikoyafm.com:10600</uri>
+  </Station>
+  <Station>
+    <name>Nikoya FM</name>
+    <uri>http://radio.nikoyafm.com:10600/stream1</uri>
+  </Station>
+  <Station>
+    <name>Nuansa fm</name>
+    <uri>http://69.172.211.122:9170/;%26type=mp3</uri>
+  </Station>
+  <Station>
+    <name>Nuansa Radio</name>
+    <uri>http://nuansaradio.indostreamserver.com:8010/</uri>
+  </Station>
+  <Station>
+    <name>Nur 88.5 FM Rembang</name>
+    <uri>http://stream.suararadio.com:8000/rembang_nurfm_mono</uri>
+  </Station>
+  <Station>
+    <name>Nuris FM Radio Keluarga</name>
+    <uri>http://s3.vinhostmedia.com:7000/</uri>
+  </Station>
+  <Station>
+    <name>Nurisfm Tangerang</name>
+    <uri>http://103.28.148.18:8192/</uri>
+  </Station>
+  <Station>
+    <name>Nurul Musthofa Live Streaming</name>
+    <uri>http://radio.nurulmusthofa.org:2100/live</uri>
+  </Station>
+  <Station>
+    <name>ONIX RADIO 88.7</name>
+    <uri>http://199.167.134.163:7062/</uri>
+  </Station>
+  <Station>
+    <name>Onyx Radio</name>
+    <uri>http://199.167.134.163:7062/;</uri>
+  </Station>
+  <Station>
+    <name>Oz Radio / Bandung</name>
+    <uri>http://45.64.97.211:1031/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Oz Radio / Jakarta</name>
+    <uri>http://203.77.240.67:9080/ozradio</uri>
+  </Station>
+  <Station>
+    <name>OZ Radio 90.8</name>
+    <uri>http://203.77.240.70:9080/ozradio</uri>
+  </Station>
+  <Station>
+    <name>OZ Radio Bali / 101.2 FM</name>
+    <uri>http://radio.simaya.net.id:1320/</uri>
+  </Station>
+  <Station>
+    <name>OZ Radio Banda Aceh</name>
+    <uri>http://103.29.212.166:9968/;stream/1</uri>
+  </Station>
+  <Station>
+    <name>OZ Radio Bandung</name>
+    <uri>http://45.64.97.211:1031/</uri>
+  </Station>
+  <Station>
+    <name>Paduka fm</name>
+    <uri>http://paduka.id.myradio.web.id:8888/padukafm?1539338354767</uri>
+  </Station>
+  <Station>
+    <name>Paduka FM Purwokerto 100.6</name>
+    <uri>http://paduka.myradio.web.id:8888/padukafm</uri>
+  </Station>
+  <Station>
+    <name>Palupi FM Bangka Belitung</name>
+    <uri>http://radio.klikstream.net:1035/;</uri>
+  </Station>
+  <Station>
+    <name>Pandawa Radio</name>
+    <uri>http://103.234.209.73:9300/stream</uri>
+  </Station>
+  <Station>
+    <name>Panorama 100.3 FM Pasuruan</name>
+    <uri>http://streaming.radiopanorama.net:8200</uri>
+  </Station>
+  <Station>
+    <name>Panorama fm</name>
+    <uri>http://streaming.radiopanorama.net:8200/;</uri>
+  </Station>
+  <Station>
+    <name>Pantura FM</name>
+    <uri>http://i.klikhost.com:8814/</uri>
+  </Station>
+  <Station>
+    <name>Paramuda FM</name>
+    <uri>http://paramuda.simayaradio.com:9990</uri>
+  </Station>
+  <Station>
+    <name>Paranti</name>
+    <uri>http://paranti.myradio.web.id:8778/paranti?1534932883950</uri>
+  </Station>
+  <Station>
+    <name>Park Fm</name>
+    <uri>http://park.netradyom.com:1345</uri>
+  </Station>
+  <Station>
+    <name>Pas FM</name>
+    <uri>http://radio.mitra.net.id:8102/</uri>
+  </Station>
+  <Station>
+    <name>Pas FM 92.4 MHz Jakarta</name>
+    <uri>http://202.146.225.106:8080</uri>
+  </Station>
+  <Station>
+    <name>Pas fm radio</name>
+    <uri>http://radio.mitra.net.id:8102/;</uri>
+  </Station>
+  <Station>
+    <name>Pas FM Radio Bisnis Semarang</name>
+    <uri>http://125.163.163.107:8000</uri>
+  </Station>
+  <Station>
+    <name>Pas pati</name>
+    <uri>http://pasfmpati.indostreaming.com:8886/;</uri>
+  </Station>
+  <Station>
+    <name>Pasoepati</name>
+    <uri>http://live.citrafmradio.com:9494/stream?1539068892250</uri>
+  </Station>
+  <Station>
+    <name>Passopati FM</name>
+    <uri>http://live.radiopassopatifm.com:9494/stream</uri>
+  </Station>
+  <Station>
+    <name>Pasundan Radio</name>
+    <uri>http://i.klikhost.net:8004/</uri>
+  </Station>
+  <Station>
+    <name>Patra FM Duri</name>
+    <uri>http://180.241.226.162:8000</uri>
+  </Station>
+  <Station>
+    <name>Pema FM Ngunut</name>
+    <uri>http://radiobudiluhur.onlivestreaming.net:8999/stream</uri>
+  </Station>
+  <Station>
+    <name>Persada FM</name>
+    <uri>http://live.persadaradio.com:8084/</uri>
+  </Station>
+  <Station>
+    <name>Persada FM / Lamongan</name>
+    <uri>http://cast1.onlivestreaming.net:9720/</uri>
+  </Station>
+  <Station>
+    <name>Persada FM / Surakarta</name>
+    <uri>http://radio.mtafm.com:1079/</uri>
+  </Station>
+  <Station>
+    <name>Persada FM 92.4 FM</name>
+    <uri>http://live.persadaradio.com:8084</uri>
+  </Station>
+  <Station>
+    <name>Pesona FM Madiun</name>
+    <uri>http://moderatofm.onlivestreaming.net:10720/live</uri>
+  </Station>
+  <Station>
+    <name>Pesona FM Padang</name>
+    <uri>http://curiosity.shoutca.st:6997/</uri>
+  </Station>
+  <Station>
+    <name>Phoenix Radio Bali</name>
+    <uri>http://66.228.123.222:8250/</uri>
+  </Station>
+  <Station>
+    <name>Phoenix Radio Bali 91.0 FM</name>
+    <uri>http://50.97.122.58:8250/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>Pikiran Rakyat</name>
+    <uri>http://prfm.pikiran-rakyat.com:8000/</uri>
+  </Station>
+  <Station>
+    <name>Pilar Radio 102.1 FM</name>
+    <uri>http://i.klikhost.net:8072/;stream.nvs</uri>
+  </Station>
+  <Station>
+    <name>PILARADIO</name>
+    <uri>http://175.103.49.99:8000</uri>
+  </Station>
+  <Station>
+    <name>Pinguin Fm</name>
+    <uri>http://50.97.122.58:8350/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>Pinguin FM Bali</name>
+    <uri>http://66.228.123.222:8350</uri>
+  </Station>
+  <Station>
+    <name>PiSS FM 102.4</name>
+    <uri>http://stream.suararadio.com:8000/ciamis_pissfm_mono</uri>
+  </Station>
+  <Station>
+    <name>PISS FM CIAMIS</name>
+    <uri>http://stream.suararadio.com:8000/ciamis_pissfm_mono?1459863125668.mp3</uri>
+  </Station>
+  <Station>
+    <name>PLAYFM</name>
+    <uri>http://66.96.237.109:8000/</uri>
+  </Station>
+  <Station>
+    <name>Plfm malang</name>
+    <uri>http://199.167.134.163:7196</uri>
+  </Station>
+  <Station>
+    <name>Plusbio FM Cianjur</name>
+    <uri>http://115.178.48.43:9970</uri>
+  </Station>
+  <Station>
+    <name>PM3FIR / RJM FM</name>
+    <uri>http://live.rjmfm.com:8078/</uri>
+  </Station>
+  <Station>
+    <name>PM4FAH / Kusuma FM Cilacap</name>
+    <uri>http://u.klikhost.net:7726/</uri>
+  </Station>
+  <Station>
+    <name>PM5FAO / TOP986FM</name>
+    <uri>http://live.indostreamserver.com:8010/</uri>
+  </Station>
+  <Station>
+    <name>PM5FAQ / Total FM</name>
+    <uri>http://103.28.148.18:8738/</uri>
+  </Station>
+  <Station>
+    <name>Ponorogo Space Dangdut</name>
+    <uri>http://198.24.155.194:9000/</uri>
+  </Station>
+  <Station>
+    <name>Pop FM</name>
+    <uri>http://u.klikhost.com:7056/</uri>
+  </Station>
+  <Station>
+    <name>PR FM</name>
+    <uri>http://202.90.194.170:8000/</uri>
+  </Station>
+  <Station>
+    <name>Pradya Suara FM 94</name>
+    <uri>http://pu.klikhost.com:8012/stream</uri>
+  </Station>
+  <Station>
+    <name>Prambors / Bandung</name>
+    <uri>http://masima.rastream.com/masima-pramborsbandung?</uri>
+  </Station>
+  <Station>
+    <name>Prambors / Jakarta</name>
+    <uri>http://masima.rastream.com/masima-pramborsjakarta?</uri>
+  </Station>
+  <Station>
+    <name>Prambors / Jogja</name>
+    <uri>http://103.21.81.159:80/masima-pramborsyogya</uri>
+  </Station>
+  <Station>
+    <name>Prambors / Makassar</name>
+    <uri>http://103.226.246.58:80/masima-pramborsmakassar</uri>
+  </Station>
+  <Station>
+    <name>Prambors / Medan</name>
+    <uri>http://www.radioonline.co.id/prambors-medan/</uri>
+  </Station>
+  <Station>
+    <name>Prambors / Solo</name>
+    <uri>http://103.21.81.159:80/masima-pramborssolo</uri>
+  </Station>
+  <Station>
+    <name>Prambors bandung</name>
+    <uri>http://indo.masima.rastream.com/masima-pramborsjakarta?type=.flv&amp;awparams=adswizz:true;stationId:masima-pramborsjakarta&amp;start=0</uri>
+  </Station>
+  <Station>
+    <name>Prambors FM - 102.2 FM Jakarta</name>
+    <uri>http://masima.rastream.com/masima-pramborsjakarta</uri>
+  </Station>
+  <Station>
+    <name>Prameswara FM Lamongan</name>
+    <uri>http://prameswarafm.onlivestreaming.net:10390/live</uri>
+  </Station>
+  <Station>
+    <name>Pramudya FM Lampung</name>
+    <uri>http://live4.rs3fm.com:8000/pramudya</uri>
+  </Station>
+  <Station>
+    <name>Pratama FM</name>
+    <uri>http://103.28.148.18:8030</uri>
+  </Station>
+  <Station>
+    <name>Prestasi FM</name>
+    <uri>http://u.klikhost.com:7128/</uri>
+  </Station>
+  <Station>
+    <name>Prima 96.1 FM</name>
+    <uri>http://attackcityradio.onlivestreaming.net/tunein/attackcityradio.ram</uri>
+  </Station>
+  <Station>
+    <name>Prima FM 103</name>
+    <uri>http//stream.suararadio.com:8000</uri>
+  </Station>
+  <Station>
+    <name>Prima FM Indramayu</name>
+    <uri>http://live.primafm958.com:8004/</uri>
+  </Station>
+  <Station>
+    <name>Prima Radio Surabaya</name>
+    <uri>http://stream.primaradio.co.id:9188/</uri>
+  </Station>
+  <Station>
+    <name>Prima Radio Surabaya 103.8</name>
+    <uri>http://stream.primaradio.co.id:9188/;</uri>
+  </Station>
+  <Station>
+    <name>Pro 2</name>
+    <uri>http://pvstreaming.rri.co.id:9317/web-rricirebonpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>Pro 2 bandung</name>
+    <uri>http://pvstreaming.rri.co.id:9015/rribandungpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>Pronews FM Padang</name>
+    <uri>http://live.indostreamserver.com:8018</uri>
+  </Station>
+  <Station>
+    <name>Pronews FM Padang 90.0</name>
+    <uri>http://pronewsfm.indostreamserver.com:8018/stream</uri>
+  </Station>
+  <Station>
+    <name>PROSA FM</name>
+    <uri>http://45.64.97.211:9954</uri>
+  </Station>
+  <Station>
+    <name>PTPN RASITANIA SOLO</name>
+    <uri>http://live.ptpn.fm:8000/stream/1/</uri>
+  </Station>
+  <Station>
+    <name>Puncak FM</name>
+    <uri>http://live.puncakfm.com:8162</uri>
+  </Station>
+  <Station>
+    <name>PURNAMA FM BLITAR</name>
+    <uri>http://i.klikhost.com:8796</uri>
+  </Station>
+  <Station>
+    <name>Purwokerto Sonora</name>
+    <uri>http://stream.suararadio.com:8000/purwokerto_sonora_mp3</uri>
+  </Station>
+  <Station>
+    <name>QYU RADIO 94.1 FM</name>
+    <uri>http://115.178.48.43:9992</uri>
+  </Station>
+  <Station>
+    <name>R/lisa FM Jepara</name>
+    <uri>http://s2.free-shoutcast.com:18168/;</uri>
+  </Station>
+  <Station>
+    <name>R/Radio 89.5FM / Rajawali</name>
+    <uri>http://u.klikhost.com:7134/</uri>
+  </Station>
+  <Station>
+    <name>RADEKKA FM</name>
+    <uri>http://103.28.148.18:8744</uri>
+  </Station>
+  <Station>
+    <name>Radio A</name>
+    <uri>http://103.28.148.18:8044/</uri>
+  </Station>
+  <Station>
+    <name>Radio AdDhiya Crb</name>
+    <uri>http://erdioo.com/player.php?id=1003&amp;format=m3u</uri>
+  </Station>
+  <Station>
+    <name>Radio Aden FM</name>
+    <uri>http://s3.freeshoutcast.com:23258</uri>
+  </Station>
+  <Station>
+    <name>Radio Agnesta 103</name>
+    <uri>http://sci.streamingmurah.com:8271/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Agricia FM</name>
+    <uri>http://192.99.0.170:11500</uri>
+  </Station>
+  <Station>
+    <name>Radio Aksi</name>
+    <uri>http://live.indostreamserver.com:8152/</uri>
+  </Station>
+  <Station>
+    <name>Radio Al-Hikmah Banyuwangi</name>
+    <uri>http://158.69.119.235:8164/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Al-Manshuroh Cilacap</name>
+    <uri>http://radio.almanshurohcilacap.com:8002</uri>
+  </Station>
+  <Station>
+    <name>Radio Al-Manshuroh Cilacap 107.9 FM</name>
+    <uri>http://209.58.160.62:11162/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Alaikassalam Jakarta</name>
+    <uri>http://stream.rasfmjakarta.com:8000/</uri>
+  </Station>
+  <Station>
+    <name>Radio alfatah tranqil</name>
+    <uri>http://103.28.148.18:8228/;</uri>
+  </Station>
+  <Station>
+    <name>RADIO ALI JABBER</name>
+    <uri>http://live.mp3quran.net:9964/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio ANDIKA 105.7 FM Kediri</name>
+    <uri>http://andikafm.onlivestreaming.net:1057/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Annasihah</name>
+    <uri>http://streaming2.an-nashihah.com:9988/</uri>
+  </Station>
+  <Station>
+    <name>Radio AR Bali</name>
+    <uri>http://66.228.123.222:8450</uri>
+  </Station>
+  <Station>
+    <name>Radio AR Bali 104.4</name>
+    <uri>http://50.97.122.58:8450/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio Artis Minang</name>
+    <uri>http://ram.arenastreaming.com:8072/stream?1511202128417</uri>
+  </Station>
+  <Station>
+    <name>Radio Arts Indonesia</name>
+    <uri>http://50.22.212.205:8138/</uri>
+  </Station>
+  <Station>
+    <name>Radio Assunnah Cirebon</name>
+    <uri>http://live.radiosunnah.net</uri>
+  </Station>
+  <Station>
+    <name>Radio B</name>
+    <uri>http://listento.playradiob.com:8338/radiobfm</uri>
+  </Station>
+  <Station>
+    <name>Radio Bahana 101.8 FM Jakarta</name>
+    <uri>http://103.16.199.177:8100</uri>
+  </Station>
+  <Station>
+    <name>Radio Baraya Sunda</name>
+    <uri>http://199.167.134.163:7910/</uri>
+  </Station>
+  <Station>
+    <name>Radio Baraya Sunda Bandung</name>
+    <uri>http://u.klikhost.net:7726</uri>
+  </Station>
+  <Station>
+    <name>Radio BeFM</name>
+    <uri>http://server.nafirifm.net:8011</uri>
+  </Station>
+  <Station>
+    <name>Radio Berita Klasik</name>
+    <uri>http://i.klikhost.com:9030</uri>
+  </Station>
+  <Station>
+    <name>Radio BKL FM</name>
+    <uri>http://ina.vinhostmedia.com:8000/bklfm</uri>
+  </Station>
+  <Station>
+    <name>Radio Blessing Indonesia</name>
+    <uri>http://202.73.25.93:9976/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Bobotoh</name>
+    <uri>http://103.28.148.18:8182/;*.mp3</uri>
+  </Station>
+  <Station>
+    <name>RADIO BORNEO FM</name>
+    <uri>http://stream.borneofm.net:8012</uri>
+  </Station>
+  <Station>
+    <name>Radio Cakra 90.5 FM</name>
+    <uri>http://dengerin.radiocakrabandung.com:8905/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Cakra Bandung</name>
+    <uri>http://dengerin.radiocakrabandung.com:8905</uri>
+  </Station>
+  <Station>
+    <name>Radio Cakra Bandung 90.5</name>
+    <uri>http://dengerin.radiocakrabandung.com:8905/radio.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio camajaya</name>
+    <uri>http://live.camajayafm.com:8220/;</uri>
+  </Station>
+  <Station>
+    <name>Radio casavafm</name>
+    <uri>http://live3.rs3fm.com:8800/</uri>
+  </Station>
+  <Station>
+    <name>Radio CBB</name>
+    <uri>http://live.bandardangdut.net:8228</uri>
+  </Station>
+  <Station>
+    <name>Radio Cemerlang Depok</name>
+    <uri>http://live.cemerlangradio.com:8100</uri>
+  </Station>
+  <Station>
+    <name>Radio Cendana</name>
+    <uri>http://u.klikhost.com:7126</uri>
+  </Station>
+  <Station>
+    <name>Radio Cendana 102.6</name>
+    <uri>http://45.64.98.181:8075/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Chandrabuana</name>
+    <uri>http://125.162.120.144:8000</uri>
+  </Station>
+  <Station>
+    <name>Radio cmc surabaya</name>
+    <uri>http://radio.pasar.tv:1000/</uri>
+  </Station>
+  <Station>
+    <name>Radio cmc surabaya / 107.9 FM</name>
+    <uri>http://sci.streamingmurah.com:8008/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Cosmo Bandung</name>
+    <uri>http://scg.streamingmurah.com:8074/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Cristy</name>
+    <uri>http://stream.suararadio.com:8000/cristyradio_makassar_stereo</uri>
+  </Station>
+  <Station>
+    <name>Radio Cristy AM 828</name>
+    <uri>http://stream.suararadio.com:8000/cristyradio_makassar_mono</uri>
+  </Station>
+  <Station>
+    <name>Radio Dahlia</name>
+    <uri>http://dahlia-fm.simaya.net.id:1060</uri>
+  </Station>
+  <Station>
+    <name>Radio Dakwah Bin Baz</name>
+    <uri>http://live.radiomedinah.com</uri>
+  </Station>
+  <Station>
+    <name>Radio Dakwah Islamiyah An/nur</name>
+    <uri>http://live.radiodakwah.com:80/</uri>
+  </Station>
+  <Station>
+    <name>Radio Dangdut Indonesia</name>
+    <uri>http://202.147.199.99:8000/</uri>
+  </Station>
+  <Station>
+    <name>Radio Dangdut Indonesia / Bandung</name>
+    <uri>http://stream.radbdg.net:8000/RDI-Bandung.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio Darush Sholihin 107</name>
+    <uri>http://80.211.234.113:8186/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio dBs</name>
+    <uri>http://i.klikhost.com:8612/</uri>
+  </Station>
+  <Station>
+    <name>Radio Delima FM Samarinda</name>
+    <uri>http://live.radiodelimafm.com:8088/</uri>
+  </Station>
+  <Station>
+    <name>Radio Dewi Anjani</name>
+    <uri>http://s3.vinhostmedia.com:9922</uri>
+  </Station>
+  <Station>
+    <name>Radio dFas FM Indramayu</name>
+    <uri>http://live.dfasfm.com:8032</uri>
+  </Station>
+  <Station>
+    <name>Radio dFlamboyan</name>
+    <uri>http://flamboyan.onlivestreaming.net/tunein/flamboyan.ram</uri>
+  </Station>
+  <Station>
+    <name>Radio Diah Rosanti FM</name>
+    <uri>http://103.28.148.18:8646/</uri>
+  </Station>
+  <Station>
+    <name>Radio DJ 94.8 FM Surabaya</name>
+    <uri>http://u.klikhost.com:8000/djfm</uri>
+  </Station>
+  <Station>
+    <name>Radio Donna FM</name>
+    <uri>http://s3.vinhostmedia.com:9978/</uri>
+  </Station>
+  <Station>
+    <name>RADIO EGATAMA FM</name>
+    <uri>http://radioegatama.myradio.web.id:8888/egatama</uri>
+  </Station>
+  <Station>
+    <name>Radio El Shaddai FM 91.30 MHz</name>
+    <uri>http://shaddai.onlivestreaming.net:9130/live.m3u</uri>
+  </Station>
+  <Station>
+    <name>Radio Elnury</name>
+    <uri>http://119.235.255.206:8158</uri>
+  </Station>
+  <Station>
+    <name>Radio eLSee FM Tasikmalaya</name>
+    <uri>http://elseefm.blogspot.com/</uri>
+  </Station>
+  <Station>
+    <name>RADIO FACEBOOK</name>
+    <uri>http://sci.streamingmurah.com:8117</uri>
+  </Station>
+  <Station>
+    <name>Radio fajri</name>
+    <uri>http://150.107.148.147:9930/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Finance Indonesia</name>
+    <uri>http://www.financeindonesia.org/radioonfb/playlist.ram</uri>
+  </Station>
+  <Station>
+    <name>Radio Fortuna Tunggal Roso</name>
+    <uri>http://198.71.90.155:8202/</uri>
+  </Station>
+  <Station>
+    <name>Radio Galuh 89.5 FM Tasikmalaya</name>
+    <uri>http://stream.suararadio.com:8000/galuhfm_mono</uri>
+  </Station>
+  <Station>
+    <name>Radio GCD Jogjakarta</name>
+    <uri>http://usa.jogjastreamers.com:8000/gcdstereo?s=639547907573021</uri>
+  </Station>
+  <Station>
+    <name>Radio Gema Wana Prima</name>
+    <uri>http://103.28.148.18:8222/</uri>
+  </Station>
+  <Station>
+    <name>Radio Gesit FM Lampung</name>
+    <uri>http://95.154.254.81/records/radiouser2888996/record.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio Global Adventista</name>
+    <uri>http://70.38.64.149:9998/</uri>
+  </Station>
+  <Station>
+    <name>Radio Global Media Swara Fm Banyuwangi 92.9</name>
+    <uri>http://23.88.59.68:8002/LembagaPenyiaranKomunitasSosialBudayaGlobalMediaSwaraFM</uri>
+  </Station>
+  <Station>
+    <name>Radio Grace Alone Surabaya</name>
+    <uri>http://u.klikhost.net:8000/gracealone?type=.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio H2 FM Malang</name>
+    <uri>http://119.81.46.217:31955</uri>
+  </Station>
+  <Station>
+    <name>Radio Harmoni FM</name>
+    <uri>http://199.167.134.163:7008</uri>
+  </Station>
+  <Station>
+    <name>Radio Heartline / Bali</name>
+    <uri>http://202.129.186.43:7028/</uri>
+  </Station>
+  <Station>
+    <name>Radio Heartline / Karawaci</name>
+    <uri>http://202.129.186.43:7010/</uri>
+  </Station>
+  <Station>
+    <name>Radio Heartline / Samarinda</name>
+    <uri>http://202.129.186.43:7025/</uri>
+  </Station>
+  <Station>
+    <name>RADIO HOKI</name>
+    <uri>http://s7.viastreaming.net:8810/</uri>
+  </Station>
+  <Station>
+    <name>Radio HRD Streaming</name>
+    <uri>http://103.28.148.18:8054/</uri>
+  </Station>
+  <Station>
+    <name>Radio Idola</name>
+    <uri>http://server.radioidola.com:7030/live</uri>
+  </Station>
+  <Station>
+    <name>Radio Idola 92.6 FM Semarang</name>
+    <uri>http://111.68.31.150:8000/idolafm.mp3?type=.mp3/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio imam muslim</name>
+    <uri>http://alatsariy.onlivestreaming.net:10330/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Imelda FM</name>
+    <uri>http://111.68.27.245:8020</uri>
+  </Station>
+  <Station>
+    <name>Radio islam</name>
+    <uri>http://128.199.156.6/;</uri>
+  </Station>
+  <Station>
+    <name>Radio islam demak</name>
+    <uri>http://45.64.97.82:8106</uri>
+  </Station>
+  <Station>
+    <name>Radio Istana FM 95 Bojonegoro</name>
+    <uri>http://radioistanabojonegoro.co.id:8000/istana</uri>
+  </Station>
+  <Station>
+    <name>Radio Istara FM</name>
+    <uri>http://istarafm.onlivestreaming.net:10110/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio IsyKarima FM</name>
+    <uri>http://104.236.66.148:8300/</uri>
+  </Station>
+  <Station>
+    <name>Radio Jreng</name>
+    <uri>http://radiojreng.myradio.web.id:8888/radiojreng.aac</uri>
+  </Station>
+  <Station>
+    <name>Radio KAJ</name>
+    <uri>http://kaj.onlivestreaming.net:9500/;audio.mp3?hash=1532679657496</uri>
+  </Station>
+  <Station>
+    <name>Radio Karo Online</name>
+    <uri>http://radio.karo.or.id:80/</uri>
+  </Station>
+  <Station>
+    <name>Radio Katolik</name>
+    <uri>http://katolikindonesia.com:9334/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Kayu Manis</name>
+    <uri>http://15693.live.streamtheworld.com:3690/SMOOTH995AAC_SC?ua=RadioTime&amp;ttag=RadioTime&amp;maxServers=2&amp;tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.e</uri>
+  </Station>
+  <Station>
+    <name>Radio Kencana Bandung</name>
+    <uri>http://i.klikhost.com:8822/</uri>
+  </Station>
+  <Station>
+    <name>Radio Kencana Bandung 96.8 FM</name>
+    <uri>http://69.64.33.125:8110/</uri>
+  </Station>
+  <Station>
+    <name>Radio Kita</name>
+    <uri>http://live.radiokitapontianak.com:8108/</uri>
+  </Station>
+  <Station>
+    <name>Radio KITA Madiun 105.2</name>
+    <uri>http://119.82.232.87:80/</uri>
+  </Station>
+  <Station>
+    <name>Radio Kota Batik</name>
+    <uri>http://125.163.211.201:8090</uri>
+  </Station>
+  <Station>
+    <name>Radio Lita FM</name>
+    <uri>http://radio.melsa.net.id:8060/lita</uri>
+  </Station>
+  <Station>
+    <name>Radio M Martapura</name>
+    <uri>http://live.indostreamserver.com:8236</uri>
+  </Station>
+  <Station>
+    <name>Radio Mara 106.7 FM Bandung</name>
+    <uri>http://mara-fm.simaya.net.id:8300/</uri>
+  </Station>
+  <Station>
+    <name>Radio Maria Indonesia</name>
+    <uri>http://dreamsiteradiocp.com:8062/</uri>
+  </Station>
+  <Station>
+    <name>Radio MCFM</name>
+    <uri>http://45.64.97.82:9720/mcfm</uri>
+  </Station>
+  <Station>
+    <name>Radio Menara 3</name>
+    <uri>http://u.klikhost.net:7078</uri>
+  </Station>
+  <Station>
+    <name>Radio Menara 3 864</name>
+    <uri>http://u.klikhost.net:7078/</uri>
+  </Station>
+  <Station>
+    <name>Radio Minang Badunsanak</name>
+    <uri>http://relay.radiokito.com:8024/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio minang maimbau</name>
+    <uri>http://45.32.103.238:8048/stream?1531425877631</uri>
+  </Station>
+  <Station>
+    <name>Radio Minang Saiyo</name>
+    <uri>http://rms.onlivestreaming.net:8686/</uri>
+  </Station>
+  <Station>
+    <name>Radio Mora / Jabar 88.5</name>
+    <uri>http://103.28.148.18:8616/</uri>
+  </Station>
+  <Station>
+    <name>Radio Mora Jabar 88.50 FM</name>
+    <uri>http://jabar.radiomora.com:9012/</uri>
+  </Station>
+  <Station>
+    <name>Radio Muara</name>
+    <uri>http://live.radiomuara.com:8176/;5330836462255606stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Radio Muara 1152</name>
+    <uri>http://live.radiomuara.com:8176</uri>
+  </Station>
+  <Station>
+    <name>Radio Muria</name>
+    <uri>http://server.radiomuriakudus.com:8800/radiomuria.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio Muslim</name>
+    <uri>http://live.radiomuslim.com:80/</uri>
+  </Station>
+  <Station>
+    <name>Radio Muslim / Jakarta</name>
+    <uri>http://live.radiomuslimjakarta.com:80/</uri>
+  </Station>
+  <Station>
+    <name>Radio Nafiri FM</name>
+    <uri>http://119.2.44.6:8000/</uri>
+  </Station>
+  <Station>
+    <name>Radio Nurussunnah</name>
+    <uri>http://live.nurussunnah.com:80</uri>
+  </Station>
+  <Station>
+    <name>Radio Nurussunnah 107.7</name>
+    <uri>http://45.64.98.181:8104/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Online IslamOri</name>
+    <uri>http://radioonline.iniislam.net:9978</uri>
+  </Station>
+  <Station>
+    <name>Radio Online SMA Negeri 1 Pekalongan</name>
+    <uri>http://radio.sma1pekalongan.sch.id:8484/stream/1/</uri>
+  </Station>
+  <Station>
+    <name>Radio Online Tanjungpermai</name>
+    <uri>http://live1.sudutpermai.com:8000</uri>
+  </Station>
+  <Station>
+    <name>Radio pakpak bharat</name>
+    <uri>http://u.klikhost.com:7840/;nsv</uri>
+  </Station>
+  <Station>
+    <name>Radio Pelangi Nusantara 882 AM</name>
+    <uri>http://s3.vinhostmedia.com:9994/</uri>
+  </Station>
+  <Station>
+    <name>Radio Pelita Kasih 96.3 FM</name>
+    <uri>http://rpkfm.indostreamserver.com:8030</uri>
+  </Station>
+  <Station>
+    <name>Radio Pemuda FM</name>
+    <uri>http://199.167.134.163:7014/</uri>
+  </Station>
+  <Station>
+    <name>Radio Pengajian</name>
+    <uri>http://173.224.124.217:8112/</uri>
+  </Station>
+  <Station>
+    <name>Radio Perkasa FM Tulungagung</name>
+    <uri>http://167.114.174.57:8082/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Pertanian Wonocolo</name>
+    <uri>http://live.radiomatrixfm.com:8102/</uri>
+  </Station>
+  <Station>
+    <name>Radio PLFM Malang</name>
+    <uri>http://103.28.148.18:8810/</uri>
+  </Station>
+  <Station>
+    <name>Radio PosTki</name>
+    <uri>http://live2.indostreamserver.com:9000/radiopostki1</uri>
+  </Station>
+  <Station>
+    <name>Radio PPI Dunia</name>
+    <uri>http://s1.voscast.com:8080/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>RADIO PURBALINGG 2</name>
+    <uri>http://209.58.160.62:10140</uri>
+  </Station>
+  <Station>
+    <name>Radio Q 88.3 FM Yogyakarta</name>
+    <uri>http://usa.jogjastreamers.com:8000/qradio34567stereo?s=613272664682553</uri>
+  </Station>
+  <Station>
+    <name>Radio Q Jogjakarta</name>
+    <uri>http://199.167.134.163:7204</uri>
+  </Station>
+  <Station>
+    <name>Radio qu</name>
+    <uri>http://live.radioquonline.com:8199/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Ramayana 87.6</name>
+    <uri>http://live.radioramayanapalu.com:8102/</uri>
+  </Station>
+  <Station>
+    <name>Radio Rasil</name>
+    <uri>http://203.24.76.112:8000/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Rhema 88.6 FM Semarang</name>
+    <uri>http://rhemaradio.com/playlists/rhema.m3u</uri>
+  </Station>
+  <Station>
+    <name>Radio Rodja</name>
+    <uri>http://live2.radiorodja.com</uri>
+  </Station>
+  <Station>
+    <name>Radio Rodja / Bandung</name>
+    <uri>http://119.82.232.90:80/</uri>
+  </Station>
+  <Station>
+    <name>Radio Rodja 756 AM</name>
+    <uri>http://live.radiorodja.com</uri>
+  </Station>
+  <Station>
+    <name>Radio Rugeri</name>
+    <uri>http://live.radiorugeri.com:8056/</uri>
+  </Station>
+  <Station>
+    <name>Radio S/TRI FM Cianjur Selatan</name>
+    <uri>http://live.radiostrifm.com:8000/strifm</uri>
+  </Station>
+  <Station>
+    <name>Radio sahabat</name>
+    <uri>http://119.82.232.83:8009</uri>
+  </Station>
+  <Station>
+    <name>Radio Samaria</name>
+    <uri>http://samariafm.onlivestreaming.net:9790/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Sangkakala AM 1062 KHz Surabaya</name>
+    <uri>http://117.18.16.7:7777</uri>
+  </Station>
+  <Station>
+    <name>Radio Sangkakala Surabaya</name>
+    <uri>http://www.radio.sangkakala.org/</uri>
+  </Station>
+  <Station>
+    <name>Radio Semeton Takdir</name>
+    <uri>http://semetontakdir.myradio.web.id:8888/takdirfm.aac</uri>
+  </Station>
+  <Station>
+    <name>Radio Shofar FM</name>
+    <uri>http://119.235.249.138:7777/</uri>
+  </Station>
+  <Station>
+    <name>Radio SIB</name>
+    <uri>http://103.29.215.149:9974</uri>
+  </Station>
+  <Station>
+    <name>Radio Sindangkasih 103.6 FM</name>
+    <uri>http://103.28.148.18:9162/</uri>
+  </Station>
+  <Station>
+    <name>RADIO SMK SAHID</name>
+    <uri>http://radiosmksahid.onlivestreaming.net:9595/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Sonata Bandung</name>
+    <uri>http://live.indostreamserver.com:8038</uri>
+  </Station>
+  <Station>
+    <name>Radio Sonora FM</name>
+    <uri>http://202.148.14.92:8000/live</uri>
+  </Station>
+  <Station>
+    <name>Radio Sonora Semarang 98.9 FM</name>
+    <uri>http://stream.suararadio.com:8000/semarang_sonora_mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio Sonora Surabaya 97.75 FM</name>
+    <uri>http://stream.suararadio.com:8000/surabaya_sonorasurabaya_mono</uri>
+  </Station>
+  <Station>
+    <name>Radio Spirit TOC 107.7</name>
+    <uri>http://radio.mitra.net.id:8100/</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Al/Iman</name>
+    <uri>http://live.alimanradio.or.id/</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Edukasi</name>
+    <uri>http://iradio.suaraedukasi.com:8803/stream</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Gratia 95.9 FM Cirebon</name>
+    <uri>http://suaragratiafm.japanserver.info:8959/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Indah 92.1 Bandung / MeiSheng</name>
+    <uri>http://175.176.161.62:9996/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Kupang</name>
+    <uri>http://45.64.97.211:9506/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Muslim Surabaya</name>
+    <uri>http://radio.useetv.com:8024/</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Nabawiy FM</name>
+    <uri>http://radio.suaranabawiy.com:8872/</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Quran FM</name>
+    <uri>http://radiodakwah.com:8010</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Quran FM / Lombok</name>
+    <uri>http://assunnahfm.com:9010</uri>
+  </Station>
+  <Station>
+    <name>Radio Suara Samarinda</name>
+    <uri>http://119.235.255.206:8232</uri>
+  </Station>
+  <Station>
+    <name>Radio Suka-Suka</name>
+    <uri>http://s9.viastreaming.net:7060/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Suka/Suka</name>
+    <uri>http://s9.viastreaming.net:7060/</uri>
+  </Station>
+  <Station>
+    <name>Radio Sukapura FM</name>
+    <uri>http://stream.suararadio.com:8000/tasik_sukapurafm_mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio Suzana</name>
+    <uri>http://streaming.suzanafm.com:8000</uri>
+  </Station>
+  <Station>
+    <name>Radio Swara Bojonegoro Indah 103</name>
+    <uri>http://87.117.201.152/stream.mp3?ipport=87.117.201.152_33689</uri>
+  </Station>
+  <Station>
+    <name>Radio Swara Jepara</name>
+    <uri>http://server.radioidola.com:7080/</uri>
+  </Station>
+  <Station>
+    <name>Radio Swaragama</name>
+    <uri>http://swaragama.indostreamserver.com:8160/</uri>
+  </Station>
+  <Station>
+    <name>Radio Syiar Tauhid</name>
+    <uri>http://live.syiartauhid.info:8046/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Teman Sejati 90.8 Solok Selatan</name>
+    <uri>http://sci.streamingmurah.com:8094/</uri>
+  </Station>
+  <Station>
+    <name>Radio Tiara FM</name>
+    <uri>http://stream.suararadio.com:8000/cilacap_tiarafm_mono</uri>
+  </Station>
+  <Station>
+    <name>Radio Tidar Sakti Fm Batu</name>
+    <uri>http://36.89.244.149:8000/</uri>
+  </Station>
+  <Station>
+    <name>Radio Top 40</name>
+    <uri>http://sc-t40.1.fm:8075/</uri>
+  </Station>
+  <Station>
+    <name>	Radio Trangkil FM Temboro</name>
+    <uri>http://103.28.148.18:8228</uri>
+  </Station>
+  <Station>
+    <name>Radio Tuah Suara Murni</name>
+    <uri>http://radiotsm.multiply.com/</uri>
+  </Station>
+  <Station>
+    <name>Radio Untar</name>
+    <uri>http://202.129.186.43:7036/</uri>
+  </Station>
+  <Station>
+    <name>Radio Utama FM</name>
+    <uri>http://i.klikhost.net:8138/</uri>
+  </Station>
+  <Station>
+    <name>Radio Vica Insani FM Purbalingga</name>
+    <uri>http://live.insanifm.com:8989/</uri>
+  </Station>
+  <Station>
+    <name>Radio VIFA/SSK</name>
+    <uri>http://202.133.2.250:8000/live</uri>
+  </Station>
+  <Station>
+    <name>Radio VIS FM 101.5</name>
+    <uri>http://s4.vinhostmedia.com:8000/streamaac?type=.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radio Volare</name>
+    <uri>http://128.199.105.5:9103/;</uri>
+  </Station>
+  <Station>
+    <name>Radio Waton Muni</name>
+    <uri>http://45.64.97.211:7511/</uri>
+  </Station>
+  <Station>
+    <name>Radio Z</name>
+    <uri>http://167.114.118.120:7440</uri>
+  </Station>
+  <Station>
+    <name>RADIO/QU</name>
+    <uri>http://live.radioquonline.com:8199/</uri>
+  </Station>
+  <Station>
+    <name>Radiogasm</name>
+    <uri>http://167.114.174.57:8018/;</uri>
+  </Station>
+  <Station>
+    <name>RadioNU</name>
+    <uri>http://semar.onlivestreaming.net:8787/stream</uri>
+  </Station>
+  <Station>
+    <name>Radionya Kota Depok</name>
+    <uri>http://live.mpm-radio.com:8046</uri>
+  </Station>
+  <Station>
+    <name>RadioOn Bandung</name>
+    <uri>http://fitradio.co.id:9964</uri>
+  </Station>
+  <Station>
+    <name>RadioQ Jogja</name>
+    <uri>http://jkt.jogjastreamers.com:8000/qradio34567stereo</uri>
+  </Station>
+  <Station>
+    <name>Radioqu</name>
+    <uri>http://104.218.48.100:8199/;stream.mp3</uri>
+  </Station>
+  <Station>
+    <name>Radiotauhid</name>
+    <uri>http://syiartauhid.info:8008/</uri>
+  </Station>
+  <Station>
+    <name>RADYO 38</name>
+    <uri>http://51.255.7.120:9986/</uri>
+  </Station>
+  <Station>
+    <name>Rain city</name>
+    <uri>http://live.serverstreaming.net:8888/livestream?type=.mp3</uri>
+  </Station>
+  <Station>
+    <name>Raja FM Sumedang</name>
+    <uri>http://s3.vinhostmedia.com:9684/</uri>
+  </Station>
+  <Station>
+    <name>Rajawali Radio</name>
+    <uri>http://125.160.17.21:8012/</uri>
+  </Station>
+  <Station>
+    <name>Rajawali Radio - Bandung</name>
+    <uri>http://opensource.telkomspeedy.com:8012/listen.pls</uri>
+  </Station>
+  <Station>
+    <name>Raka 98.8 FM Bandung</name>
+    <uri>http://stream.suararadio.com:8000/bandung_rakafm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Rakita FM</name>
+    <uri>http://119.235.250.189:8330</uri>
+  </Station>
+  <Station>
+    <name>Rama FM</name>
+    <uri>http://rama-fm.simaya.net.id:8800/</uri>
+  </Station>
+  <Station>
+    <name>Rama FM / Bandung</name>
+    <uri>http://rama-fm.simaya.net.id:8800/;</uri>
+  </Station>
+  <Station>
+    <name>Rama FM / Cianjur</name>
+    <uri>http://rama-cianjur.simaya.net.id:1250</uri>
+  </Station>
+  <Station>
+    <name>Rama FM Bandung</name>
+    <uri>http://rama-fm.simaya.net.id:8800</uri>
+  </Station>
+  <Station>
+    <name>Rapemda Pringsewu</name>
+    <uri>http://i.klikhost.net:8720</uri>
+  </Station>
+  <Station>
+    <name>Rapma FM UMS</name>
+    <uri>http://rapmafm.onlivestreaming.net:9999/stream</uri>
+  </Station>
+  <Station>
+    <name>Ras</name>
+    <uri>http://103.28.148.18:9006/;</uri>
+  </Station>
+  <Station>
+    <name>Rasdipa FM</name>
+    <uri>http://103.28.148.18:8762/</uri>
+  </Station>
+  <Station>
+    <name>Rase 102.3 FM Radio Bandung</name>
+    <uri>http://radio.jabarmaya.net.id:8000/rasefm</uri>
+  </Station>
+  <Station>
+    <name>RASI FM MAGETAN</name>
+    <uri>http://cast2.onlivestreaming.net:9060/live</uri>
+  </Station>
+  <Station>
+    <name>Rasika FM</name>
+    <uri>http://stream.suararadio.com:8000/rasikafm_mono</uri>
+  </Station>
+  <Station>
+    <name>Rasika FM / Pekalongan</name>
+    <uri>http://stream.suararadio.com:8000/rasikapekalongan_stereo</uri>
+  </Station>
+  <Station>
+    <name>Rasika FM / Semarang Raya</name>
+    <uri>http://stream.suararadio.com:8000/rasikasemarang_mono</uri>
+  </Station>
+  <Station>
+    <name>Rasika Sragentina</name>
+    <uri>http://stream.suararadio.com:8000/rasikasragentina_stereo</uri>
+  </Station>
+  <Station>
+    <name>RASIL</name>
+    <uri>http://ch1.radiosilaturahim.com:8000/stream</uri>
+  </Station>
+  <Station>
+    <name>Rasuna FM</name>
+    <uri>http://live4.rs3fm.com:8000/rasunafm</uri>
+  </Station>
+  <Station>
+    <name>Rau fm</name>
+    <uri>http://stream.suararadio.com:8000/sidempuan_raufm</uri>
+  </Station>
+  <Station>
+    <name>Rau FM 105.0</name>
+    <uri>http://180.250.18.115:8000/sidempuan_raufm</uri>
+  </Station>
+  <Station>
+    <name>Rba fm</name>
+    <uri>http://u.klikhost.com:7882/</uri>
+  </Station>
+  <Station>
+    <name>RBFM</name>
+    <uri>http://103.28.148.18:8204/</uri>
+  </Station>
+  <Station>
+    <name>RBT FM</name>
+    <uri>http://113.212.116.186:8899</uri>
+  </Station>
+  <Station>
+    <name>RCT FM</name>
+    <uri>http://123.255.201.54:8000</uri>
+  </Station>
+  <Station>
+    <name>Rdk fm</name>
+    <uri>http://rdk.onlivestreaming.net:10100/stream</uri>
+  </Station>
+  <Station>
+    <name>RDS FM Solo</name>
+    <uri>http://202.65.114.229:9976/</uri>
+  </Station>
+  <Station>
+    <name>RDSFM 101.4 FM</name>
+    <uri>http://202.65.114.229:9976/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Republik Dangdut</name>
+    <uri>http://republikdangdut.id.myradio.web.id:8888/republikdangdut</uri>
+  </Station>
+  <Station>
+    <name>RESA FM Tulungagung</name>
+    <uri>http://s3.vinhostmedia.com:9690</uri>
+  </Station>
+  <Station>
+    <name>Respon Radio</name>
+    <uri>http://202.129.186.43:7045</uri>
+  </Station>
+  <Station>
+    <name>Respon Radio 93.0</name>
+    <uri>http://202.129.186.43:7045/</uri>
+  </Station>
+  <Station>
+    <name>Retjo Buntung 99.4 FM Yogyakarta</name>
+    <uri>http://45.64.97.82:9940/;</uri>
+  </Station>
+  <Station>
+    <name>Retjo Buntung FM</name>
+    <uri>http://45.64.97.82:9940</uri>
+  </Station>
+  <Station>
+    <name>Rgs</name>
+    <uri>http://rgs.us.myradio.web.id:8000/rgs</uri>
+  </Station>
+  <Station>
+    <name>Rhema Radio / PM4FYI</name>
+    <uri>http://de.rhemaradio.com:8128/</uri>
+  </Station>
+  <Station>
+    <name>RHMFM Wonogiri</name>
+    <uri>http://rhmfm.com/</uri>
+  </Station>
+  <Station>
+    <name>Ria Pop FM</name>
+    <uri>http://riapopfm.big.net.id</uri>
+  </Station>
+  <Station>
+    <name>RIS 103.2 FM PERBAUNGAN</name>
+    <uri>http://live.ris1032fm.com:8152</uri>
+  </Station>
+  <Station>
+    <name>RJM 91.5 FM</name>
+    <uri>http://live.rjmfm.com:8026/;</uri>
+  </Station>
+  <Station>
+    <name>RKTI</name>
+    <uri>http://r.rkti.net:8100</uri>
+  </Station>
+  <Station>
+    <name>RMCRadio Surabaya</name>
+    <uri>http://radio.mitra.net.id:8104/</uri>
+  </Station>
+  <Station>
+    <name>RockZzz</name>
+    <uri>http://streaming.radionomy.com/NETROCK101 THEANIMAL</uri>
+  </Station>
+  <Station>
+    <name>Rodja</name>
+    <uri>http://live2.radiorodja.com:80/</uri>
+  </Station>
+  <Station>
+    <name>Rodja Bandung</name>
+    <uri>http://live.radiorodjabandung.com/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>RodjaTV</name>
+    <uri>http://audio.rodja.tv:1010/;stream.mp3?_=5</uri>
+  </Station>
+  <Station>
+    <name>Ronggohadi FM</name>
+    <uri>http://cast2.onlivestreaming.net:9780/live</uri>
+  </Station>
+  <Station>
+    <name>Roshinta FM Tegal</name>
+    <uri>http://110.136.185.92:8000</uri>
+  </Station>
+  <Station>
+    <name>RPKD Denpasar</name>
+    <uri>http://rpkdfm.onlivestreaming.net:9260/stream</uri>
+  </Station>
+  <Station>
+    <name>RRC / Radio Republic Cabul</name>
+    <uri>http://174.142.97.228:8490</uri>
+  </Station>
+  <Station>
+    <name>RRI - Channel 5</name>
+    <uri>http://streaming.rri.co.id:8941/web-chlima.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI - Keroncong Channel</name>
+    <uri>http://streaming.rri.co.id:9236/web-rrikeroncong.mp3</uri>
+  </Station>
+  <Station>
+    <name>Rri bsnjar</name>
+    <uri>http://streaming.rri.co.id:9019/web-rribanjarmasinpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Channel5</name>
+    <uri>http://125.164.72.74:8500</uri>
+  </Station>
+  <Station>
+    <name>Rri manokwari</name>
+    <uri>http://pvstreaming.rri.co.id:9024/web-rrimanokwaripro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Ambon</name>
+    <uri>http://streaming.rri.co.id:9315/web-rriambonpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Ampana</name>
+    <uri>http://streaming.rri.co.id:9337/web-rriampanapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Atambua</name>
+    <uri>http://streaming.rri.co.id:9225/web-rriatambuapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Banda Aceh</name>
+    <uri>http://streaming.rri.co.id:9214/web-rribandaacehpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Bandar Lampung</name>
+    <uri>http://streaming.rri.co.id:9112/web-rrilampungpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Bandung</name>
+    <uri>http://streaming.rri.co.id:9015/web-rribandungpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Banten</name>
+    <uri>http://streaming.rri.co.id:9036/web-rribantenpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Batam</name>
+    <uri>http://streaming.rri.co.id:9125/web-rribatampro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Bengkulu</name>
+    <uri>http://streaming.rri.co.id:9311/web-rribengkulupro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Bogor</name>
+    <uri>http://streaming.rri.co.id:9319/web-rribogorpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Bone</name>
+    <uri>http://streaming.rri.co.id:9237/web-rribonepro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Bukittinggi</name>
+    <uri>http://streaming.rri.co.id:9216/web-rribkttinggipro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Denpasar</name>
+    <uri>http://streaming.rri.co.id:9021/web-rridenpasarpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Ende</name>
+    <uri>http://streaming.rri.co.id:9223/web-rriendepro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Entikong</name>
+    <uri>http://streaming.rri.co.id:9236/web-rrientikongpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Fak Fak</name>
+    <uri>http://streaming.rri.co.id:9321/web-rrifakfakpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Gorontalo</name>
+    <uri>http://streaming.rri.co.id:9115/web-rrigorontalopro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Gunung Sitoli</name>
+    <uri>http://streaming.rri.co.id:9225/web-rrisitolipro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Jakarta</name>
+    <uri>http://streaming.rri.co.id:9025/web-rrijakartapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Jambi</name>
+    <uri>http://streaming.rri.co.id:9211/web-rrijambipro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Jayapura</name>
+    <uri>http://streaming.rri.co.id:9023/web-rrijayapurapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Kendari</name>
+    <uri>http://streaming.rri.co.id:9313/web-rrikendaripro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Kupang</name>
+    <uri>http://streaming.rri.co.id:9213/web-rrikupangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Madiun</name>
+    <uri>http://streaming.rri.co.id:9318/web-rrimadiunpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Makassar</name>
+    <uri>http://streaming.rri.co.id:9022/web-rrimakasarpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Malang</name>
+    <uri>http://streaming.rri.co.id:9218/web-rrimalangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Malinau</name>
+    <uri>http://streaming.rri.co.id:9237/web-rrimalinaupro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Manokwari</name>
+    <uri>http://streaming.rri.co.id:9024/web-rrimanokwaripro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Mataram</name>
+    <uri>http://streaming.rri.co.id:9113/web-rrimatarampro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Medan</name>
+    <uri>http://streaming.rri.co.id:9011/web-rrimedanpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Merauke</name>
+    <uri>http://streaming.rri.co.id:9136/web-rrimeraukepro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Nabire</name>
+    <uri>http://streaming.rri.co.id:9122/web-rrinabirepro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Padang</name>
+    <uri>http://streaming.rri.co.id:9111/web-rripadangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Palangkaraya</name>
+    <uri>http://streaming.rri.co.id:9312/web-rripalangkarayapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Palembang</name>
+    <uri>http://streaming.rri.co.id:9013/web-rripalembangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Palu</name>
+    <uri>http://streaming.rri.co.id:9114/web-rripalupro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Pekanbaru</name>
+    <uri>http://streaming.rri.co.id:9012/web-rripekanbarupro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Pontianak</name>
+    <uri>http://streaming.rri.co.id:9212/web-rripontianakpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Purwokerto</name>
+    <uri>http://streaming.rri.co.id:9119/web-rripurwokertopro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Samarinda</name>
+    <uri>http://streaming.rri.co.id:9116/web-rrisamarindapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Semarang</name>
+    <uri>http://streaming.rri.co.id:9016/web-rrisemarangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Serui</name>
+    <uri>http://streaming.rri.co.id:9222/web-rriseruipro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Sibolga</name>
+    <uri>http://streaming.rri.co.id:9121/web-rrisibolgapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Sintang</name>
+    <uri>http://streaming.rri.co.id:9123/web-rrisintangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Sorong</name>
+    <uri>http://streaming.rri.co.id:9217/web-rrisorongpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Sumenep</name>
+    <uri>http://streaming.rri.co.id:9118/web-rrisumeneppro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Sungailiat</name>
+    <uri>http://streaming.rri.co.id:9314/web-rrisngliatpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Surabaya</name>
+    <uri>http://streaming.rri.co.id:9018/web-rrisurabayapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Surakarta</name>
+    <uri>http://streaming.rri.co.id:9219/web-rrisurakartapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Takengon</name>
+    <uri>http://streaming.rri.co.id:9111/web-rritakengonpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Tanjunh Pinang</name>
+    <uri>http://streaming.rri.co.id:9221/web-rritjpinangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Tarakan</name>
+    <uri>http://streaming.rri.co.id:9323/web-rritarakanpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Ternate</name>
+    <uri>http://streaming.rri.co.id:9215/web-rriternatepro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Toli Toli</name>
+    <uri>http://streaming.rri.co.id:9324/web-rritolitolipro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Tual</name>
+    <uri>http://streaming.rri.co.id:9322/web-rritualpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Wamena</name>
+    <uri>http://streaming.rri.co.id:9224/web-rriwamenapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P1 - Yogyakarta</name>
+    <uri>http://streaming.rri.co.id:9017/web-rrijogjapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Ambon</name>
+    <uri>http://streaming.rri.co.id:9315/web-rriambonpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Atambua</name>
+    <uri>http://streaming.rri.co.id:9225/web-rriatambuapro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Banda Aceh</name>
+    <uri>http://streaming.rri.co.id:9214/web-rribandaacehpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Bandar Lampung</name>
+    <uri>http://streaming.rri.co.id:9112/web-rrilampungpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Bandung</name>
+    <uri>http://streaming.rri.co.id:9015/web-rribandungpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Banjarmasin</name>
+    <uri>http://streaming.rri.co.id:9019/web-rribanjarmasinpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Batam</name>
+    <uri>http://streaming.rri.co.id:9125/web-rribatampro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Bogor</name>
+    <uri>http://streaming.rri.co.id:9319/web-rribogorpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Bukittinggi</name>
+    <uri>http://streaming.rri.co.id:9216/web-rribkttinggipro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Denpasar</name>
+    <uri>http://streaming.rri.co.id:9021/web-rridenpasarpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Ende</name>
+    <uri>http://streaming.rri.co.id:9223/web-rriendepro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Fak Fak</name>
+    <uri>http://streaming.rri.co.id:9321/web-rrifakfakpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Gorontalo</name>
+    <uri>http://streaming.rri.co.id:9115/web-rrigorontalopro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Gunung Sitoli</name>
+    <uri>http://streaming.rri.co.id:9225/web-rrisitolipro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Jakarta</name>
+    <uri>http://streaming.rri.co.id:9025/web-rrijakartapro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Jambi</name>
+    <uri>http://streaming.rri.co.id:9211/web-rrijambipro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Jayapura</name>
+    <uri>http://streaming.rri.co.id:9023/web-rrijayapurapro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Kendari</name>
+    <uri>http://streaming.rri.co.id:9313/web-rrikendaripro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P2 - Kupang</name>
+    <uri>http://streaming.rri.co.id:9213/web-rrikupangpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P3 (Pro3)</name>
+    <uri>http://streaming.rri.co.id:9014/web-kbrn.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Ambon</name>
+    <uri>http://streaming.rri.co.id:9315/web-rriambonpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Banda Aceh</name>
+    <uri>http://streaming.rri.co.id:9214/web-rribandaacehpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Bandar Lampung</name>
+    <uri>http://streaming.rri.co.id:9112/web-rrilampungpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Bandung</name>
+    <uri>http://streaming.rri.co.id:9015/web-rribandungpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Banjarmasin</name>
+    <uri>http://streaming.rri.co.id:9019/web-rribanjarmasinpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Bengkulu</name>
+    <uri>http://streaming.rri.co.id:9311/web-rribengkulupro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Denpasar</name>
+    <uri>http://streaming.rri.co.id:9021/web-rridenpasarpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Jakarta</name>
+    <uri>http://streaming.rri.co.id:9025/web-rrijakartapro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Jambi</name>
+    <uri>http://streaming.rri.co.id:9211/web-rrijambipro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Jayapura</name>
+    <uri>http://streaming.rri.co.id:9023/web-rrijayapurapro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI P4 - Kupang</name>
+    <uri>http://streaming.rri.co.id:9213/web-rrikupangpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1</name>
+    <uri>http://27.50.19.174:8000/programa1</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 /  Bandar Lampung</name>
+    <uri>http://radio.simaya.net.id:9030</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Atambua</name>
+    <uri>http://pvstreaming.rri.co.id:9225/web-rriatambuapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Banda Aceh</name>
+    <uri>http://pvstreaming.rri.co.id:9214/rribandaacehpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Bandung</name>
+    <uri>http://180.250.80.114:9015/rribandungpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Cirebon</name>
+    <uri>http://pvstreaming.rri.co.id:9317/rricirebonpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Denpasar</name>
+    <uri>http://pvstreaming.rri.co.id:9021/rridenpasarpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Ende</name>
+    <uri>http://pvstreaming.rri.co.id:9223/web-rriendepro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Jakarta</name>
+    <uri>http://pvstreaming.rri.co.id:9025/web-rrijakartapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Malang</name>
+    <uri>http://radio.mitra.net.id:8010</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Mataram</name>
+    <uri>http://streaming.rri.co.id:9113/rrimatarampro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Medan</name>
+    <uri>http://pvstreaming.rri.co.id:9011/web-rrimedanpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Padang</name>
+    <uri>http://pvstreaming.rri.co.id:9111/rripadangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Palembang</name>
+    <uri>http://pvstreaming.rri.co.id:9013/rripalembangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Pekanbaru</name>
+    <uri>http://pvstreaming.rri.co.id:9012/rripekanbarupro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Pontianak</name>
+    <uri>http://180.250.80.114:9212/web-rripontianakpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Purwokerto</name>
+    <uri>http://180.250.80.114:9119/web-rripurwokertopro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Samarinda</name>
+    <uri>http://streaming.rri.co.id:9116/rrisamarindapro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Semarang</name>
+    <uri>http://pvstreaming.rri.co.id:9016/web-rrisemarangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Singaraja</name>
+    <uri>http://live2.rrisingaraja.com:8108</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Sintang</name>
+    <uri>http://pvstreaming.rri.co.id:9123/rrisintangpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Surabaya</name>
+    <uri>http://125.164.72.113:8090</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 1 / Surakarta</name>
+    <uri>http://cast5.onlivestreaming.net:9000/pro1rriska</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2</name>
+    <uri>http://27.50.19.174:8000/programa2</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 /  Surabaya</name>
+    <uri>http://125.164.72.113:8186</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Banda Aceh</name>
+    <uri>http://pvstreaming.rri.co.id:9214/rribandaacehpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Bandar Lampung</name>
+    <uri>http://pvstreaming.rri.co.id:9112/rrilampungpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Bandung</name>
+    <uri>http://180.250.80.114:9015/rribandungpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Banjarmasin</name>
+    <uri>http://pvstreaming.rri.co.id:9019/rribanjarmasinpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Cirebon</name>
+    <uri>http://103.247.8.23:8030</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Denpasar</name>
+    <uri>http://pvstreaming.rri.co.id:9021/rridenpasarpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Jakarta</name>
+    <uri>http://pvstreaming.rri.co.id:9025/web-rrijakartapro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Jember</name>
+    <uri>http://pvstreaming.rri.co.id:9340/rrijemberpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Jogjakarta</name>
+    <uri>http://pvstreaming.rri.co.id:9017/rrijogjapro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Kupang</name>
+    <uri>http://pvstreaming.rri.co.id:9213/web-rrikupangpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Makassar</name>
+    <uri>http://180.250.80.114:9022/web-rrimakasarpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Malang</name>
+    <uri>http://radio.mitra.net.id:8020</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Mataram</name>
+    <uri>http://pvstreaming.rri.co.id:9113/web-rrimatarampro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Medan</name>
+    <uri>http://125.162.33.161:8050/</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Padang</name>
+    <uri>http://pvstreaming.rri.co.id:9111/web-rripadangpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Palembang</name>
+    <uri>http://streaming.rri.co.id:9013/rripalembangpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Pekanbaru</name>
+    <uri>http://streaming.rri.co.id:9012/web-rripekanbarupro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Pontianak</name>
+    <uri>http://rripontianak-fm.simaya.net.id:1090</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Purwokerto</name>
+    <uri>http://streaming.rri.co.id:9119/web-rripurwokertopro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Samarinda</name>
+    <uri>http://180.250.80.114:9116/rrisamarindapro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Semarang</name>
+    <uri>http://streaming.rri.co.id:9016/rrisemarangpro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Singaraja</name>
+    <uri>http://live2.rrisingaraja.com:8106</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Surabaya</name>
+    <uri>http://pvstreaming.rri.co.id:9018/web-rrisurabayapro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Surakarta</name>
+    <uri>http://cast1.onlivestreaming.net:9700/</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Ternate</name>
+    <uri>http://pvstreaming.rri.co.id:9215/rriternatepro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 2 / Yogyakarta</name>
+    <uri>http://103.28.15.50:9000/pro2.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 3 / Jogja</name>
+    <uri>http://103.28.15.50:9000/pro3.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 3 / Samarinda</name>
+    <uri>http://ch1.radiospin.net:8082/stream</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 3 / Yogyakarta</name>
+    <uri>http://pvstreaming.rri.co.id:9017/web-rrijogjapro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 4 / Bandung</name>
+    <uri>http://pvstreaming.rri.co.id:9015/web-rribandungpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 4 / Banjarmasin</name>
+    <uri>http://110.139.113.231:8000</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 4 / Denpasar</name>
+    <uri>http://pvstreaming.rri.co.id:9021/web-rridenpasarpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 4 / Jakarta</name>
+    <uri>http://pvstreaming.rri.co.id:9025/rrijakartapro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 4 / Makassar</name>
+    <uri>http://live4.rrimakassar.com:7082</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 4 / Malang</name>
+    <uri>http://radio.mitra.net.id:8040</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 4 / Palembang</name>
+    <uri>http://pvstreaming.rri.co.id:9013/rripalembangpro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 4 / Surabaya</name>
+    <uri>http://125.164.72.113:8154</uri>
+  </Station>
+  <Station>
+    <name>RRI Pro 4 / Yogyakarta</name>
+    <uri>http://103.28.15.50:9000/pro4.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI PRO1 MEFAN</name>
+    <uri>http://pvstreaming.rri.co.id:9011/rrimedanpro1.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI SP Sambas</name>
+    <uri>http://180.250.80.114:9236/obvanrrientikong.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI World Service - Voice Of Indonesia</name>
+    <uri>http://streaming.rri.co.id:9125/voi.mp3</uri>
+  </Station>
+  <Station>
+    <name>RRI World Service / Voice of Indonesia</name>
+    <uri>http://180.250.80.114:9125/voi.mp3</uri>
+  </Station>
+  <Station>
+    <name>RSPD</name>
+    <uri>http://rspd.onlivestreaming.net:9650/stream</uri>
+  </Station>
+  <Station>
+    <name>RTC UI 107.9 FM</name>
+    <uri>http://live3.rs3fm.com:8000/rtcuifm</uri>
+  </Station>
+  <Station>
+    <name>Rumaisho</name>
+    <uri>http://live.rumaysho.com:9984/</uri>
+  </Station>
+  <Station>
+    <name>Sadangfm purwakarta</name>
+    <uri>http://s4.vinhostmedia.com:8000/sadangfm</uri>
+  </Station>
+  <Station>
+    <name>Safasindo</name>
+    <uri>http://radio.safasindo.com:7044/;</uri>
+  </Station>
+  <Station>
+    <name>Sahara Kendal 106.4 FM</name>
+    <uri>http://u.klikhost.net:7044</uri>
+  </Station>
+  <Station>
+    <name>Salma FM</name>
+    <uri>http://91.121.34.164:13106</uri>
+  </Station>
+  <Station>
+    <name>Samhan Radio</name>
+    <uri>http://live.samhanradio.com:8090/</uri>
+  </Station>
+  <Station>
+    <name>Sangkakala 1062</name>
+    <uri>http://117.18.16.7:7777/</uri>
+  </Station>
+  <Station>
+    <name>Sangkakala borneo</name>
+    <uri>http://radio.sangkakala.org/</uri>
+  </Station>
+  <Station>
+    <name>Sanjaya FM Magetan</name>
+    <uri>http://sanjayafm.u7.myradio.web.id:8888/sanjayafm</uri>
+  </Station>
+  <Station>
+    <name>Santika</name>
+    <uri>http://santikafm.id.myradio.web.id:8888/santikafm?1539010884907</uri>
+  </Station>
+  <Station>
+    <name>Santika FM</name>
+    <uri>http://santikafm.id.myradio.web.id:8888/santikafm</uri>
+  </Station>
+  <Station>
+    <name>Sarkub</name>
+    <uri>http://audio.aswajacenter.com:1112</uri>
+  </Station>
+  <Station>
+    <name>Sarkub FM ASWAJA</name>
+    <uri>http://audio.aswajacenter.com:1112/;</uri>
+  </Station>
+  <Station>
+    <name>Sarkub Radio</name>
+    <uri>http://audio.aswajacenter.com:1112/</uri>
+  </Station>
+  <Station>
+    <name>SAS FM Surabaya</name>
+    <uri>http://199.167.134.163:7102</uri>
+  </Station>
+  <Station>
+    <name>Sas Fm Surabaya 972</name>
+    <uri>http://199.167.134.163:7102/</uri>
+  </Station>
+  <Station>
+    <name>Sasaraina FM</name>
+    <uri>http://i.klikhost.net:8690</uri>
+  </Station>
+  <Station>
+    <name>SATRADIO</name>
+    <uri>http://sgp2.onlivestreaming.net:8585/live</uri>
+  </Station>
+  <Station>
+    <name>SB radio</name>
+    <uri>http://103.28.148.18:8258/</uri>
+  </Station>
+  <Station>
+    <name>SCFM</name>
+    <uri>http://radio.mitra.net.id:8110/</uri>
+  </Station>
+  <Station>
+    <name>SCFM / Suara Celebes FM 90.9</name>
+    <uri>http://live2.indostreamserver.com:8022/</uri>
+  </Station>
+  <Station>
+    <name>Scout Radio</name>
+    <uri>http://103.28.148.18:8734/</uri>
+  </Station>
+  <Station>
+    <name>Sebayu fm</name>
+    <uri>http://103.12.164.18:8000/;</uri>
+  </Station>
+  <Station>
+    <name>Seila FM</name>
+    <uri>http://seila.radiosilaturahim.com</uri>
+  </Station>
+  <Station>
+    <name>Sejahtera FM</name>
+    <uri>http://radio.mitra.net.id:8050/</uri>
+  </Station>
+  <Station>
+    <name>Senaputra</name>
+    <uri>http://103.31.46.14:8000/</uri>
+  </Station>
+  <Station>
+    <name>Serambi FM</name>
+    <uri>http://www.live.serambifm.com:8902/</uri>
+  </Station>
+  <Station>
+    <name>Serambi FM 90.2 MHz</name>
+    <uri>http://live.serambifm.com:8902</uri>
+  </Station>
+  <Station>
+    <name>Serambifm</name>
+    <uri>http://live.serambifm.com:8902/;</uri>
+  </Station>
+  <Station>
+    <name>Serumpun 91.7 FM Radio Batam</name>
+    <uri>http://175.103.49.56:8000/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Serumpun Radio 91.7</name>
+    <uri>http://175.103.49.56:8000/</uri>
+  </Station>
+  <Station>
+    <name>SeruuRadio</name>
+    <uri>http://www.seruu.com/radioplayer/flashplayer/index.php</uri>
+  </Station>
+  <Station>
+    <name>She Radio</name>
+    <uri>http://s7.viastreaming.net:8290</uri>
+  </Station>
+  <Station>
+    <name>She Radio 99.6</name>
+    <uri>http://s9.viastreaming.net:7070/;</uri>
+  </Station>
+  <Station>
+    <name>She Radio 99.6 FM Surabaya</name>
+    <uri>http://s9.viastreaming.net/mobile.php?port=7070</uri>
+  </Station>
+  <Station>
+    <name>Sheba</name>
+    <uri>http://119.235.255.206:8780</uri>
+  </Station>
+  <Station>
+    <name>Shelter Cirebon</name>
+    <uri>http://www.shelter953fm.com/streaming.php</uri>
+  </Station>
+  <Station>
+    <name>Sigma Radio</name>
+    <uri>http://s4.vinhostmedia.com:8000/sigmaradio</uri>
+  </Station>
+  <Station>
+    <name>Silaturahim</name>
+    <uri>http://bb.radiosilaturahim.com</uri>
+  </Station>
+  <Station>
+    <name>Sindo Radio</name>
+    <uri>http://202.147.199.101:8000</uri>
+  </Station>
+  <Station>
+    <name>Sindo Radio 104.6</name>
+    <uri>http://202.147.199.101:8000/;</uri>
+  </Station>
+  <Station>
+    <name>Sindo Radio Bandung</name>
+    <uri>http://stream.radbdg.net:8000/sindoradio.mp3</uri>
+  </Station>
+  <Station>
+    <name>Sindo Trijaya FM</name>
+    <uri>http://202.147.199.101:8000/</uri>
+  </Station>
+  <Station>
+    <name>Sindo Trijaya FM Medan</name>
+    <uri>http://202.162.195.66:8000/sindoradio.mp3</uri>
+  </Station>
+  <Station>
+    <name>Sindo Trijaya FM Yogyakarta</name>
+    <uri>http://stream.suararadio.com:8000/yogyakarta_sindoradio_mono</uri>
+  </Station>
+  <Station>
+    <name>Sindo Trijaya FM Yogyakarta 97.0</name>
+    <uri>http://sindo.myradio.web.id:9700/yogyakarta</uri>
+  </Station>
+  <Station>
+    <name>Singosari FM Brebes</name>
+    <uri>http://78.129.189.182:11285/</uri>
+  </Station>
+  <Station>
+    <name>SKFM</name>
+    <uri>http://s3.vinhostmedia.com:9506/;</uri>
+  </Station>
+  <Station>
+    <name>SLENDRO FM</name>
+    <uri>http://live4.rs3fm.com:8000/slendro</uri>
+  </Station>
+  <Station>
+    <name>Slenkfm</name>
+    <uri>http//www.slenkwarseno.com</uri>
+  </Station>
+  <Station>
+    <name>Smart FM</name>
+    <uri>http://101.50.0.77:8000/smartfm.aac</uri>
+  </Station>
+  <Station>
+    <name>Smart FM / Balikpapan</name>
+    <uri>http://101.50.0.77:8000/balikpapan.aac</uri>
+  </Station>
+  <Station>
+    <name>Smart FM / Banjarmasin</name>
+    <uri>http://101.50.0.77:8000/banjarmasin.aac</uri>
+  </Station>
+  <Station>
+    <name>Smart FM 95.9 Jakarta</name>
+    <uri>http://101.50.0.77:8000/smartfm.aac?type=.mp3</uri>
+  </Station>
+  <Station>
+    <name>Smart FM Manado</name>
+    <uri>http://stream.suararadio.com:8000/manado_smartfm_mp3</uri>
+  </Station>
+  <Station>
+    <name>Smart FM Medan</name>
+    <uri>http://101.50.0.77:8000/medan.aac</uri>
+  </Station>
+  <Station>
+    <name>Smart FM Palembang</name>
+    <uri>http://101.50.0.77:8000/palembang.aac</uri>
+  </Station>
+  <Station>
+    <name>SMARTFM 93.4</name>
+    <uri>http://111.68.31.150:8000/smartfm.aac</uri>
+  </Station>
+  <Station>
+    <name>Smooth 99.5 Jakarta</name>
+    <uri>http://15693.live.streamtheworld.com/SMOOTH995AAC.aac?pname=StandardPlayerV4&amp;pversion=4.18.0-002&amp;tdsdk=js-2.9&amp;banners=none&amp;sbmid=d5abd0b0-72c9-4c33-8526-a2bf48549da6</uri>
+  </Station>
+  <Station>
+    <name>SMP Negeri 1 Jakarta</name>
+    <uri>http://iradio.mediax9.com/tunein.php/smpn1jkt/playlist.ram</uri>
+  </Station>
+  <Station>
+    <name>Solagracia FM</name>
+    <uri>http://110.138.251.77:8000</uri>
+  </Station>
+  <Station>
+    <name>Solo Radio</name>
+    <uri>http://78.129.226.12:8754/</uri>
+  </Station>
+  <Station>
+    <name>Solopos FM 103.0</name>
+    <uri>http://jkt.jogjastreamers.com:8000/soloposstereo</uri>
+  </Station>
+  <Station>
+    <name>Soneta</name>
+    <uri>http://live.suarasoneta.com:8016</uri>
+  </Station>
+  <Station>
+    <name>Soni FM Bali</name>
+    <uri>http://stream.suararadio.com:8000/bali_sonifm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Sonora</name>
+    <uri>http://stream.suararadio.com:8000/palembang_sonorapalembang_stereo</uri>
+  </Station>
+  <Station>
+    <name>Sonora FM 96.0 Lampung</name>
+    <uri>http://stream.suararadio.com:8000/lampung_sonoralampung_stereo</uri>
+  </Station>
+  <Station>
+    <name>Sonya Fm</name>
+    <uri>http://radiosonya.indostreamserver.com:8012</uri>
+  </Station>
+  <Station>
+    <name>SpenYosi FM Lumajang</name>
+    <uri>http://menarafm.onlivestreaming.net:10280/menarafmbali?type=.flv</uri>
+  </Station>
+  <Station>
+    <name>Srinadi FM</name>
+    <uri>http://srinadifm.onlivestreaming.net:9970/srinadifm</uri>
+  </Station>
+  <Station>
+    <name>SRIWIJAYA FM</name>
+    <uri>http://103.28.148.18:8104/</uri>
+  </Station>
+  <Station>
+    <name>Sriwijaya Radio</name>
+    <uri>http://sriwijaya.onlivestreaming.net:9430/stream</uri>
+  </Station>
+  <Station>
+    <name>SS FM</name>
+    <uri>http://live.indostreamserver.com:8142</uri>
+  </Station>
+  <Station>
+    <name>SS FM 105.2</name>
+    <uri>http://103.252.101.120:8000/http://radio-server.lan:8000</uri>
+  </Station>
+  <Station>
+    <name>SS Suara Surabaya</name>
+    <uri>http://s9.viastreaming.net:7020/stream/1/</uri>
+  </Station>
+  <Station>
+    <name>SSB FM Metro</name>
+    <uri>http://stream.kartikassb.com:8000/stream/2/</uri>
+  </Station>
+  <Station>
+    <name>Star FM</name>
+    <uri>http://radio.dnetprovider.id:8000/StarFM</uri>
+  </Station>
+  <Station>
+    <name>Star Jogja 101.3 FM Radio</name>
+    <uri>http://jkt.jogjastreamers.com:8000/starfmykstereo</uri>
+  </Station>
+  <Station>
+    <name>Star Radio</name>
+    <uri>http://live.indostreamserver.com:8070/</uri>
+  </Station>
+  <Station>
+    <name>Star Radio Padang</name>
+    <uri>http://119.235.255.206:8074/</uri>
+  </Station>
+  <Station>
+    <name>Stara Radio Majalengka</name>
+    <uri>http://stream.suararadio.com:8000/starafm_stereo</uri>
+  </Station>
+  <Station>
+    <name>StarJogja</name>
+    <uri>http://124.40.251.99/broadwavehigh.mp3</uri>
+  </Station>
+  <Station>
+    <name>Strato FM</name>
+    <uri>http://stratofm2.blogdns.com:8000/</uri>
+  </Station>
+  <Station>
+    <name>Strato FM 101.9 / PM6FJM</name>
+    <uri>http://streaming.stratofm.com:8300/stream</uri>
+  </Station>
+  <Station>
+    <name>Streamin sturada</name>
+    <uri>http://i18.klikhost.net:9082/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Studio 99</name>
+    <uri>http://103.28.148.18:9164</uri>
+  </Station>
+  <Station>
+    <name>Studio East Radio Bandung</name>
+    <uri>http://live.indostreamserver.com:8038/;</uri>
+  </Station>
+  <Station>
+    <name>Style 93 FM 93.0</name>
+    <uri>http://stream.suararadio.com:8000/tasik_stylefm_mp3</uri>
+  </Station>
+  <Station>
+    <name>Suara</name>
+    <uri>http://streaming.girifm.com:8010/;</uri>
+  </Station>
+  <Station>
+    <name>Suara Andika Kediri</name>
+    <uri>http://stream2.andikafm.com:1057/andikafm</uri>
+  </Station>
+  <Station>
+    <name>Suara Celebes FM</name>
+    <uri>http://live2.indostreamserver.com:8022</uri>
+  </Station>
+  <Station>
+    <name>Suara Edukasi AM 1440</name>
+    <uri>http://sv1.suaraedukasi.com:8803/stream</uri>
+  </Station>
+  <Station>
+    <name>Suara Giri FM</name>
+    <uri>http://streaming.girifm.com:8010</uri>
+  </Station>
+  <Station>
+    <name>Suara Giri FM Gresik</name>
+    <uri>http://streaming.girifm.com:8010/</uri>
+  </Station>
+  <Station>
+    <name>Suara Gratia</name>
+    <uri>http://suaragratiafm.japanserver.info:8959</uri>
+  </Station>
+  <Station>
+    <name>Suara Kartolo</name>
+    <uri>http://diradio.biru.co.id:8910/kartolo</uri>
+  </Station>
+  <Station>
+    <name>Suara Kota 107.7 FM</name>
+    <uri>http://singo.airputih.org:8090/suarakota.ogg</uri>
+  </Station>
+  <Station>
+    <name>Suara Mahakam</name>
+    <uri>http://u.klikhost.com:8000/suara_mahakam</uri>
+  </Station>
+  <Station>
+    <name>Suara Malioboro FM</name>
+    <uri>http://202.162.34.180:8244</uri>
+  </Station>
+  <Station>
+    <name>Suara Muslim</name>
+    <uri>http://radio.useetv.com:8024</uri>
+  </Station>
+  <Station>
+    <name>Suara Pamekasan 96.9 FM</name>
+    <uri>http://spfm.myradio.web.id:8888/spfm</uri>
+  </Station>
+  <Station>
+    <name>Suara Pasar Kulonprogo</name>
+    <uri>http://rsp.us.myradio.web.id:8000/rsp</uri>
+  </Station>
+  <Station>
+    <name>Suara Quran</name>
+    <uri>http://suaraquran.com:8030/;audio.mp3</uri>
+  </Station>
+  <Station>
+    <name>Suara Radio</name>
+    <uri>http://jkt.jogjastreamers.com:8000/istakalistayk</uri>
+  </Station>
+  <Station>
+    <name>Suara Soneta 100% Rhoma Irama</name>
+    <uri>http://173.224.125.73:8016</uri>
+  </Station>
+  <Station>
+    <name>Suara Surabaya 100.0 FM</name>
+    <uri>http://s9.viastreaming.net:7020/;</uri>
+  </Station>
+  <Station>
+    <name>Suara Surabaya Radio</name>
+    <uri>http://s9.viastreaming.net:7020/</uri>
+  </Station>
+  <Station>
+    <name>Sushi FM</name>
+    <uri>http://live2.indostreamserver.com:8042</uri>
+  </Station>
+  <Station>
+    <name>SUSIA FM 106.6</name>
+    <uri>http://susiafm.com:8100/susia</uri>
+  </Station>
+  <Station>
+    <name>Suzana 91.3 FM</name>
+    <uri>http://50.22.173.103:8000</uri>
+  </Station>
+  <Station>
+    <name>Swadesi</name>
+    <uri>http://radioswadesijogja.id.myradio.web.id:8888/radioswadesijogja</uri>
+  </Station>
+  <Station>
+    <name>Swaragama</name>
+    <uri>http://jkt.jogjastreamers.com:8000/swaragama456789stereo?s=67381698521697/;</uri>
+  </Station>
+  <Station>
+    <name>Swaragama 101.7 FM Yogyakarta</name>
+    <uri>http://usa.jogjastreamers.com:8000/swaragama456789stereo?s=67402581859743</uri>
+  </Station>
+  <Station>
+    <name>Swaragama FM</name>
+    <uri>http://jkt.jogjastreamers.com:8000/swaragama456789stereo</uri>
+  </Station>
+  <Station>
+    <name>Swaragodean</name>
+    <uri>http://45.64.97.211:8787/stream</uri>
+  </Station>
+  <Station>
+    <name>Swaragodean FM</name>
+    <uri>http://mpg.swaragodean.or.id:8787</uri>
+  </Station>
+  <Station>
+    <name>Swaramaha Radio</name>
+    <uri>http://live.swaramaha.com:8146/</uri>
+  </Station>
+  <Station>
+    <name>Talitakum</name>
+    <uri>http://streaming.talitakumradio.com:8100</uri>
+  </Station>
+  <Station>
+    <name>Talitakum Radio</name>
+    <uri>http://streaming.talitakumradio.com:8100/;file.mp3</uri>
+  </Station>
+  <Station>
+    <name>Tangerang Radio</name>
+    <uri>http://radio.tangerangkab.ga:8000</uri>
+  </Station>
+  <Station>
+    <name>Telstar FM Makassar</name>
+    <uri>http://telstarfm.indostreamserver.com:8174/</uri>
+  </Station>
+  <Station>
+    <name>The All New Bahana FM</name>
+    <uri>http://103.16.199.177:8102</uri>
+  </Station>
+  <Station>
+    <name>Thomson Bandung</name>
+    <uri>http://s3.vinhostmedia.com:9686</uri>
+  </Station>
+  <Station>
+    <name>Thomson Prima FM</name>
+    <uri>http://live.primafm.com:8080/</uri>
+  </Station>
+  <Station>
+    <name>Tirilolok</name>
+    <uri>http://78.129.224.21:37868</uri>
+  </Station>
+  <Station>
+    <name>Tjandra FM Cianjur</name>
+    <uri>http://live.radiostrifm.com:8000/tjandrafm</uri>
+  </Station>
+  <Station>
+    <name>Tjandra FM Cianjur 100.6</name>
+    <uri>http://live.radiotjandrafm.com:8006/tjandrafm</uri>
+  </Station>
+  <Station>
+    <name>TOC FM</name>
+    <uri>http://radio.mitra.net.id:8100/;</uri>
+  </Station>
+  <Station>
+    <name>Tonaonline</name>
+    <uri>http://radio.tonaonline.com:8256/</uri>
+  </Station>
+  <Station>
+    <name>Top FM</name>
+    <uri>http://streaming.topfm951.net:9510/</uri>
+  </Station>
+  <Station>
+    <name>Top FM 98.6 Radio Padang Panjang</name>
+    <uri>http://stream.denger.in:8000/stream</uri>
+  </Station>
+  <Station>
+    <name>TOP986FM</name>
+    <uri>http://live.topfmpadangpanjang.com:8040</uri>
+  </Station>
+  <Station>
+    <name>Toss 99.30 FM</name>
+    <uri>http://streaming.tossfm.com:8078</uri>
+  </Station>
+  <Station>
+    <name>Trax 101.4 FM Jakarta</name>
+    <uri>http://cloudstreaming.mramedia.com:8003/live</uri>
+  </Station>
+  <Station>
+    <name>Trax FM</name>
+    <uri>http://61.8.70.166:8001/trax-smg?type=.flv</uri>
+  </Station>
+  <Station>
+    <name>Trax FM / Semarang</name>
+    <uri>http://streaming.mramedia.com:8000/mp3-traxsmg</uri>
+  </Station>
+  <Station>
+    <name>Trax FM 90.2</name>
+    <uri>http://cloudstreaming.mramedia.com:8013/live</uri>
+  </Station>
+  <Station>
+    <name>Trend FM 101.2 FM Purwakarta</name>
+    <uri>http://stream.suararadio.com:8000/trendfm_mono</uri>
+  </Station>
+  <Station>
+    <name>Trend FM Purwakarta</name>
+    <uri>http://stream.suararadio.com:8000/trendfm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Trijaya 87.6 FM Palembang</name>
+    <uri>http://stream.suararadio.com:8000/trijayafm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Trijaya FM</name>
+    <uri>http://stream.suararadio.com:8000/trijayafm_mono</uri>
+  </Station>
+  <Station>
+    <name>Tsania 101.8 fm</name>
+    <uri>http://stream.suararadio.com:8000/bumiayu_tsaniafm_stereo</uri>
+  </Station>
+  <Station>
+    <name>Tsania FM</name>
+    <uri>http://5.133.182.164:4654/stream</uri>
+  </Station>
+  <Station>
+    <name>U/FM 94.7 Jakarta</name>
+    <uri>http://s3.vinhostmedia.com:9544/</uri>
+  </Station>
+  <Station>
+    <name>Ub radio</name>
+    <uri>http://centova.ubradio.net:8300/stream?1533623893744</uri>
+  </Station>
+  <Station>
+    <name>UFM FM</name>
+    <uri>http://u-fm.simaya.net.id:8100</uri>
+  </Station>
+  <Station>
+    <name>Uli Radio 우리 102.0FM</name>
+    <uri>http://103.28.148.18:8086/</uri>
+  </Station>
+  <Station>
+    <name>UMN Radio</name>
+    <uri>http://radio.umn.ac.id:8888/;</uri>
+  </Station>
+  <Station>
+    <name>Unisi 104.5 FM</name>
+    <uri>http://202.162.32.23:8000/stream/3/</uri>
+  </Station>
+  <Station>
+    <name>Unisi Radio</name>
+    <uri>http://202.162.32.23:8000/</uri>
+  </Station>
+  <Station>
+    <name>Unnima fm magelang</name>
+    <uri>http://usa.jogjastreamers.com:8000/unimmafmstereo?s=632308151933740</uri>
+  </Station>
+  <Station>
+    <name>Urban Radio Bandung</name>
+    <uri>http://radio.melsa.net.id:8050/urban</uri>
+  </Station>
+  <Station>
+    <name>Utama FM</name>
+    <uri>http://i.klikhost.com:8138</uri>
+  </Station>
+  <Station>
+    <name>V Radio Jakarta</name>
+    <uri>http://202.147.199.100:8000</uri>
+  </Station>
+  <Station>
+    <name>V-Radio Jakarta 106.6 FM</name>
+    <uri>http://202.147.199.100:8000/;</uri>
+  </Station>
+  <Station>
+    <name>Vampire Sound Radio</name>
+    <uri>http://www.vampiresound.com:8038/</uri>
+  </Station>
+  <Station>
+    <name>Venus FM Makassar</name>
+    <uri>http://50.115.124.196:23060/</uri>
+  </Station>
+  <Station>
+    <name>Vin Radio</name>
+    <uri>http://s4.vinhostmedia.com:8000/vinradio</uri>
+  </Station>
+  <Station>
+    <name>Virgin Radio Jakarta 99.9 FM</name>
+    <uri>http://playerservices.streamtheworld.com/pls/VIRGINRADAAC.pls</uri>
+  </Station>
+  <Station>
+    <name>Visi fm medan</name>
+    <uri>http://103.28.148.18:8178/</uri>
+  </Station>
+  <Station>
+    <name>VOI</name>
+    <uri>http://202.72.209.51:6060</uri>
+  </Station>
+  <Station>
+    <name>Voice of hope</name>
+    <uri>http://www.u.klikhost.com:7302</uri>
+  </Station>
+  <Station>
+    <name>Voice of Quran</name>
+    <uri>http://voicequran.com:1618/</uri>
+  </Station>
+  <Station>
+    <name>Voice of Soman</name>
+    <uri>http://202.147.199.98:2010</uri>
+  </Station>
+  <Station>
+    <name>Wadi FM</name>
+    <uri>http://radio.indovic.net:9994</uri>
+  </Station>
+  <Station>
+    <name>WARNA 91.6 FM</name>
+    <uri>http://warnafm.indostreamserver.com:8020</uri>
+  </Station>
+  <Station>
+    <name>WarnaFM Padang</name>
+    <uri>http://warnafm.indostreamserver.com:8020/stream</uri>
+  </Station>
+  <Station>
+    <name>Wijang songko</name>
+    <uri>https://mediacp.xajist.com/Api/Url/Stream/RWS</uri>
+  </Station>
+  <Station>
+    <name>Wijaya FM</name>
+    <uri>http://175.103.56.9:9986/</uri>
+  </Station>
+  <Station>
+    <name>Wijaya FM 103.5</name>
+    <uri>http://175.103.56.9:9986/;stream.nsv</uri>
+  </Station>
+  <Station>
+    <name>Wijaya Kusuma FM Madiun 93.80</name>
+    <uri>http://wijayakusumafm.us.myradio.web.id:8000/wijayakusumafm</uri>
+  </Station>
+  <Station>
+    <name>WinFM</name>
+    <uri>http://119.235.255.206:8200/</uri>
+  </Station>
+  <Station>
+    <name>WinFM Bogor</name>
+    <uri>http://live.indostreamserver.com:8200/</uri>
+  </Station>
+  <Station>
+    <name>Woman Radio</name>
+    <uri>http://202.182.172.146:8005/</uri>
+  </Station>
+  <Station>
+    <name>Woman Radio 94.3</name>
+    <uri>http://live.indostreamserver.com:8014/</uri>
+  </Station>
+  <Station>
+    <name>Women Radio 94.3 FM Jakarta</name>
+    <uri>http://live.indostreamserver.com:8014/;</uri>
+  </Station>
+  <Station>
+    <name>WSM/AM</name>
+    <uri>http://stream01048.westreamradio.com:80/wsm-am-mp3</uri>
+  </Station>
+  <Station>
+    <name>X Channel</name>
+    <uri>http://202.78.200.228:8103/stream</uri>
+  </Station>
+  <Station>
+    <name>X channel 87.8</name>
+    <uri>http://202.78.200.228:8788/stream</uri>
+  </Station>
+  <Station>
+    <name>X Channel 87.8 Fm</name>
+    <uri>http://202.78.200.228:8788/</uri>
+  </Station>
+  <Station>
+    <name>Yadinu FM</name>
+    <uri>http://s3.vinhostmedia.com:9714</uri>
+  </Station>
+  <Station>
+    <name>Yasika FM</name>
+    <uri>http://119.82.244.54:8080/</uri>
+  </Station>
+  <Station>
+    <name>Yes FM 104.2</name>
+    <uri>http://103.28.148.18:8866/</uri>
+  </Station>
+  <Station>
+    <name>Yes Radio</name>
+    <uri>http://yesradio.onlivestreaming.net:10402/</uri>
+  </Station>
+  <Station>
+    <name>Yoben Radio FM</name>
+    <uri>http://198.24.155.194:9000</uri>
+  </Station>
+  <Station>
+    <name>ZFM Radio Depok</name>
+    <uri>http://live.zfmradio.com:8118</uri>
+  </Station>
+  <Station>
+    <name>ZFM Radio Depok 102.4</name>
+    <uri>http://119.235.255.206:8118</uri>
+  </Station>
+  <Station>
+    <name>Zitradio</name>
+    <uri>http://onair.friendzit.land:5000</uri>
+  </Station>
+  <Station>
+    <name>Zoo FM</name>
+    <uri>http://live.indostreamserver.com:9070/zoofm</uri>
+  </Station>
+  <Station>
+    <name>ZORA 90.1 FM</name>
+    <uri>http://118.91.131.19:8000/zora</uri>
+  </Station>
+  <Station>
+    <name>ZORA Radio</name>
+    <uri>http://stream.arenastreaming.com:8018/zora</uri>
+  </Station>
+</Stations>
